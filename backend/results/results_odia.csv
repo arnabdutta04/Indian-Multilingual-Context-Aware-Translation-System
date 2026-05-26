@@ -1,0 +1,301 @@
+﻿input,ground_truth,model_output,bleu_score,chrf_score,bertscore_f1
+Kavya bought a new book from the market.,କାବ୍ୟା ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ପିଲାମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ପିଲାମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Arnab heard the good news and smiled with joy.,ଅର୍ଣ୍ଣବ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+"Ananya said, 'It is raining cats and dogs outside.'","ଅନନ୍ୟା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Sneha adopted a rabbit. The rabbit followed Sneha everywhere.,ସ୍ନେହା ଗୋଟିଏ ଖରଗୋଶକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଖରଗୋଶଟି ସ୍ନେହାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Neha felt scared after hearing the loud noise.,ନେହା ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Meera adopted a parrot. The parrot followed Meera everywhere.,ମୀରା ଗୋଟିଏ ଟିଆକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଟିଆଟି ମୀରାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,କାବ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Rohan adopted a rabbit. The rabbit followed Rohan everywhere.,ରୋହନ ଗୋଟିଏ ଖରଗୋଶକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଖରଗୋଶଟି ରୋହନଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ବିକ୍ରମ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan bought a new wallet from the market.,କରଣ ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ଶ୍ରମିକମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଶ୍ରମିକମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ସୌରଭ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya bought a new book from the market.,ପ୍ରିୟା ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,କାବ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,ଅର୍ଣ୍ଣବ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Priya bought a new phone from the market.,ପ୍ରିୟା ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ଆଦିତ୍ୟ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,କରଣ ସ୍କୁଲକୁ ଯାଇଥିଲେ। କରଣ ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+"Kavya said, 'It is raining cats and dogs outside.'","କାବ୍ୟା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+"Priya said, 'It is raining cats and dogs outside.'","ପ୍ରିୟା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Rohan bought a new book from the market.,ରୋହନ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ସୌରଭ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ଅର୍ଣ୍ଣବ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,କାବ୍ୟାଙ୍କର ପର୍ସ ହରାଇଗଲା। କାବ୍ୟା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Meera heard the good news and smiled with joy.,ମୀରା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,ମୀରା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ସ୍ନେହାଙ୍କର ପର୍ସ ହରାଇଗଲା। ସ୍ନେହା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ବିକ୍ରମ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ସୌରଭ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,ସୌରଭ ସ୍କୁଲକୁ ଯାଇଥିଲେ। ସୌରଭ ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Rahul heard the good news and smiled with joy.,ରାହୁଲ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+"Rohan said, 'It is raining cats and dogs outside.'","ରୋହନ କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Vikram heard the good news and smiled with joy.,ବିକ୍ରମ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Meera adopted a horse. The horse followed Meera everywhere.,ମୀରା ଗୋଟିଏ ଘୋଡ଼ାକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଘୋଡ଼ାଟି ମୀରାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+"Ananya said, 'It is raining cats and dogs outside.'","ଅନନ୍ୟା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Karan felt scared after hearing the loud noise.,କରଣ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Rohan bought a new laptop from the market.,ରୋହନ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rohan adopted a rabbit. The rabbit followed Rohan everywhere.,ରୋହନ ଗୋଟିଏ ଖରଗୋଶକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଖରଗୋଶଟି ରୋହନଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Priya went to school. Priya was very happy.,ପ୍ରିୟା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ପ୍ରିୟା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ଅନନ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Kavya became angry when the bus arrived late.,କାବ୍ୟା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Ananya bought a new phone from the market.,ଅନନ୍ୟା ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Pooja went to school. Pooja was very happy.,ପୂଜା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ପୂଜା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Pooja bought a new bag from the market.,ପୂଜା ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Amit bought a new phone from the market.,ଅମିତ ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rahul could not attend the party because Rahul was not feeling well.,ରାହୁଲ ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+"Amit said, 'It is raining cats and dogs outside.'","ଅମିତ କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Rahul heard the good news and smiled with joy.,ରାହୁଲ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,ରାହୁଲଙ୍କର ପର୍ସ ହରାଇଗଲା। ରାହୁଲ ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Riya visited the park in the evening.,ରିୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ଅନନ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Vikram bought a new book from the market.,ବିକ୍ରମ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,କାବ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Kavya adopted a rabbit. The rabbit followed Kavya everywhere.,କାବ୍ୟା ଗୋଟିଏ ଖରଗୋଶକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଖରଗୋଶଟି କାବ୍ୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Amit bought a new book from the market.,ଅମିତ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Priya bought a new laptop from the market.,ପ୍ରିୟା ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Riya went to school. Riya was very happy.,ରିୟା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ରିୟା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ଅନନ୍ୟାଙ୍କର ପର୍ସ ହରାଇଗଲା। ଅନନ୍ୟା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Aditya bought a new wallet from the market.,ଆଦିତ୍ୟ ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ଅନନ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Vikram lost her wallet. Vikram became very worried.,ବିକ୍ରମଙ୍କର ପର୍ସ ହରାଇଗଲା। ବିକ୍ରମ ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,ପୂଜା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,କରଣ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ବିକ୍ରମ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Ananya bought a new wallet from the market.,ଅନନ୍ୟା ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,ସୌରଭଙ୍କର ପର୍ସ ହରାଇଗଲା। ସୌରଭ ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,ସୌରଭଙ୍କର ପର୍ସ ହରାଇଗଲା। ସୌରଭ ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ସ୍ନେହାଙ୍କର ପର୍ସ ହରାଇଗଲା। ସ୍ନେହା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Aditya bought a new laptop from the market.,ଆଦିତ୍ୟ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Kavya heard the good news and smiled with joy.,କାବ୍ୟା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Amit bought a new book from the market.,ଅମିତ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Kavya became angry when the bus arrived late.,କାବ୍ୟା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Ananya could not attend the party because Ananya was not feeling well.,ଅନନ୍ୟା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Amit felt scared after hearing the loud noise.,ଅମିତ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Kavya bought a new book from the market.,କାବ୍ୟା ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ଅନନ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan felt scared after hearing the loud noise.,କରଣ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+"Sourav said, 'It is raining cats and dogs outside.'","ସୌରଭ କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Vikram bought a new laptop from the market.,ବିକ୍ରମ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rohan bought a new bag from the market.,ରୋହନ ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Priya became angry when the bus arrived late.,ପ୍ରିୟା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,ପୂଜା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Rahul adopted a cat. The cat followed Rahul everywhere.,ରାହୁଲ ଗୋଟିଏ ବିଲେଇକୁ ଦତକ ନେଇଥିଲେ। ସେହି ବିଲେଇଟି ରାହୁଲଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Vikram heard the good news and smiled with joy.,ବିକ୍ରମ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ଖେଳାଳିମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଖେଳାଳିମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Ananya went to school. Ananya was very happy.,ଅନନ୍ୟା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ଅନନ୍ୟା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Rohan bought a new laptop from the market.,ରୋହନ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Neha lost her wallet. Neha became very worried.,ନେହାଙ୍କର ପର୍ସ ହରାଇଗଲା। ନେହା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Kavya heard the good news and smiled with joy.,କାବ୍ୟା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Pooja became angry when the bus arrived late.,ପୂଜା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ଅନନ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sneha went to school. Sneha was very happy.,ସ୍ନେହା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ସ୍ନେହା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Pooja became angry when the bus arrived late.,ପୂଜା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Riya could not attend the party because Riya was not feeling well.,ରିୟା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ରାହୁଲ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Meera bought a new wallet from the market.,ମୀରା ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ରୋହନ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ପିଲାମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ପିଲାମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,ନେହା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Rohan heard the good news and smiled with joy.,ରୋହନ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ଛାତ୍ରମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଛାତ୍ରମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,କରଣ ସ୍କୁଲକୁ ଯାଇଥିଲେ। କରଣ ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Kavya bought a new phone from the market.,କାବ୍ୟା ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rahul bought a new phone from the market.,ରାହୁଲ ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Vikram bought a new wallet from the market.,ବିକ୍ରମ ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ରାହୁଲ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya heard the good news and smiled with joy.,ପ୍ରିୟା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Meera became angry when the bus arrived late.,ମୀରା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,ପ୍ରିୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Arnab bought a new phone from the market.,ଅର୍ଣ୍ଣବ ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,ମୀରା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ବିକ୍ରମ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sneha could not attend the party because Sneha was not feeling well.,ସ୍ନେହା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ସ୍ନେହାଙ୍କର ପର୍ସ ହରାଇଗଲା। ସ୍ନେହା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,ଅମିତ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Aditya bought a new laptop from the market.,ଆଦିତ୍ୟ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Meera lost her wallet. Meera became very worried.,ମୀରାଙ୍କର ପର୍ସ ହରାଇଗଲା। ମୀରା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Rahul adopted a dog. The dog followed Rahul everywhere.,ରାହୁଲ ଗୋଟିଏ କୁକୁରକୁ ଦତକ ନେଇଥିଲେ। ସେହି କୁକୁରଟି ରାହୁଲଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Kavya adopted a horse. The horse followed Kavya everywhere.,କାବ୍ୟା ଗୋଟିଏ ଘୋଡ଼ାକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଘୋଡ଼ାଟି କାବ୍ୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Rohan could not attend the party because Rohan was not feeling well.,ରୋହନ ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,ଅର୍ଣ୍ଣବ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Karan heard the good news and smiled with joy.,କରଣ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Neha bought a new bag from the market.,ନେହା ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Neha bought a new laptop from the market.,ନେହା ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ଅର୍ଣ୍ଣବ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ଖେଳାଳିମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଖେଳାଳିମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Rohan bought a new book from the market.,ରୋହନ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Sourav bought a new laptop from the market.,ସୌରଭ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ଶ୍ରମିକମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଶ୍ରମିକମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,ମୀରା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ମୀରା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ଛାତ୍ରମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଛାତ୍ରମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ସୌରଭ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Riya became angry when the bus arrived late.,ରିୟା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Ananya adopted a rabbit. The rabbit followed Ananya everywhere.,ଅନନ୍ୟା ଗୋଟିଏ ଖରଗୋଶକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଖରଗୋଶଟି ଅନନ୍ୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Neha adopted a cat. The cat followed Neha everywhere.,ନେହା ଗୋଟିଏ ବିଲେଇକୁ ଦତକ ନେଇଥିଲେ। ସେହି ବିଲେଇଟି ନେହାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Rohan bought a new phone from the market.,ରୋହନ ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,ନେହା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Pooja became angry when the bus arrived late.,ପୂଜା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ଅନନ୍ୟାଙ୍କର ପର୍ସ ହରାଇଗଲା। ଅନନ୍ୟା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,ଅମିତ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Riya lost her wallet. Riya became very worried.,ରିୟାଙ୍କର ପର୍ସ ହରାଇଗଲା। ରିୟା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ଛାତ୍ରମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଛାତ୍ରମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya adopted a dog. The dog followed Priya everywhere.,ପ୍ରିୟା ଗୋଟିଏ କୁକୁରକୁ ଦତକ ନେଇଥିଲେ। ସେହି କୁକୁରଟି ପ୍ରିୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ଛାତ୍ରମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଛାତ୍ରମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya bought a new book from the market.,ପ୍ରିୟା ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rohan bought a new laptop from the market.,ରୋହନ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rahul bought a new bag from the market.,ରାହୁଲ ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ବିକ୍ରମ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Kavya could not attend the party because Kavya was not feeling well.,କାବ୍ୟା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Ananya bought a new wallet from the market.,ଅନନ୍ୟା ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Sourav bought a new bag from the market.,ସୌରଭ ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Sourav bought a new bag from the market.,ସୌରଭ ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rohan adopted a horse. The horse followed Rohan everywhere.,ରୋହନ ଗୋଟିଏ ଘୋଡ଼ାକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଘୋଡ଼ାଟି ରୋହନଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Vikram became angry when the bus arrived late.,ବିକ୍ରମ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Neha bought a new book from the market.,ନେହା ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Aditya bought a new laptop from the market.,ଆଦିତ୍ୟ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Neha could not attend the party because Neha was not feeling well.,ନେହା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,ସୌରଭ ସ୍କୁଲକୁ ଯାଇଥିଲେ। ସୌରଭ ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan felt scared after hearing the loud noise.,କରଣ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Kavya heard the good news and smiled with joy.,କାବ୍ୟା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ବିକ୍ରମ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Ananya adopted a horse. The horse followed Ananya everywhere.,ଅନନ୍ୟା ଗୋଟିଏ ଘୋଡ଼ାକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଘୋଡ଼ାଟି ଅନନ୍ୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ରୋହନ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Kavya adopted a rabbit. The rabbit followed Kavya everywhere.,କାବ୍ୟା ଗୋଟିଏ ଖରଗୋଶକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଖରଗୋଶଟି କାବ୍ୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,ଅମିତ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Arnab bought a new phone from the market.,ଅର୍ଣ୍ଣବ ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Priya bought a new wallet from the market.,ପ୍ରିୟା ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,ପୂଜା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+"Vikram said, 'It is raining cats and dogs outside.'","ବିକ୍ରମ କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+"Pooja said, 'It is raining cats and dogs outside.'","ପୂଜା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,ରୋହନ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Neha bought a new book from the market.,ନେହା ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Aditya bought a new book from the market.,ଆଦିତ୍ୟ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+"Neha said, 'It is raining cats and dogs outside.'","ନେହା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,କାବ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Pooja adopted a horse. The horse followed Pooja everywhere.,ପୂଜା ଗୋଟିଏ ଘୋଡ଼ାକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଘୋଡ଼ାଟି ପୂଜାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ଅର୍ଣ୍ଣବ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Rohan could not attend the party because Rohan was not feeling well.,ରୋହନ ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ଶ୍ରମିକମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଶ୍ରମିକମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ସୌରଭ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya went to school. Priya was very happy.,ପ୍ରିୟା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ପ୍ରିୟା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,କରଣ ସ୍କୁଲକୁ ଯାଇଥିଲେ। କରଣ ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Rahul heard the good news and smiled with joy.,ରାହୁଲ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ସ୍ନେହା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Riya bought a new laptop from the market.,ରିୟା ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Meera bought a new bag from the market.,ମୀରା ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Priya bought a new book from the market.,ପ୍ରିୟା ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Priya bought a new bag from the market.,ପ୍ରିୟା ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ଆଦିତ୍ୟ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan felt scared after hearing the loud noise.,କରଣ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+"Kavya said, 'It is raining cats and dogs outside.'","କାବ୍ୟା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,ମୀରା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya went to school. Priya was very happy.,ପ୍ରିୟା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ପ୍ରିୟା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Pooja bought a new laptop from the market.,ପୂଜା ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Neha bought a new phone from the market.,ନେହା ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ସ୍ନେହା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,କାବ୍ୟାଙ୍କର ପର୍ସ ହରାଇଗଲା। କାବ୍ୟା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,ମୀରା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ମୀରା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,ସୌରଭ ସ୍କୁଲକୁ ଯାଇଥିଲେ। ସୌରଭ ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ଅନନ୍ୟାଙ୍କର ପର୍ସ ହରାଇଗଲା। ଅନନ୍ୟା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Neha bought a new phone from the market.,ନେହା ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya could not attend the party because Priya was not feeling well.,ପ୍ରିୟା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ନେହା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+"Ananya said, 'It is raining cats and dogs outside.'","ଅନନ୍ୟା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ରାହୁଲ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Arnab adopted a cat. The cat followed Arnab everywhere.,ଅର୍ଣ୍ଣବ ଗୋଟିଏ ବିଲେଇକୁ ଦତକ ନେଇଥିଲେ। ସେହି ବିଲେଇଟି ଅର୍ଣ୍ଣବଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Sourav adopted a cat. The cat followed Sourav everywhere.,ସୌରଭ ଗୋଟିଏ ବିଲେଇକୁ ଦତକ ନେଇଥିଲେ। ସେହି ବିଲେଇଟି ସୌରଭଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,ଅମିତ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Meera bought a new book from the market.,ମୀରା ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Aditya became angry when the bus arrived late.,ଆଦିତ୍ୟ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+"Priya said, 'It is raining cats and dogs outside.'","ପ୍ରିୟା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Arnab bought a new phone from the market.,ଅର୍ଣ୍ଣବ ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Ananya adopted a parrot. The parrot followed Ananya everywhere.,ଅନନ୍ୟା ଗୋଟିଏ ଟିଆକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଟିଆଟି ଅନନ୍ୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Ananya went to school. Ananya was very happy.,ଅନନ୍ୟା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ଅନନ୍ୟା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav heard the good news and smiled with joy.,ସୌରଭ ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ଛାତ୍ରମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଛାତ୍ରମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ନେହା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya became angry when the bus arrived late.,ପ୍ରିୟା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Sourav bought a new phone from the market.,ସୌରଭ ବଜାରରୁ ନୂଆ ଫୋନ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rahul bought a new laptop from the market.,ରାହୁଲ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Arnab bought a new laptop from the market.,ଅର୍ଣ୍ଣବ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ଆଦିତ୍ୟ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Aditya bought a new book from the market.,ଆଦିତ୍ୟ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ରୋହନ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Priya adopted a parrot. The parrot followed Priya everywhere.,ପ୍ରିୟା ଗୋଟିଏ ଟିଆକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଟିଆଟି ପ୍ରିୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ପିଲାମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ପିଲାମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,କାବ୍ୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ସୌରଭ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Ananya adopted a rabbit. The rabbit followed Ananya everywhere.,ଅନନ୍ୟା ଗୋଟିଏ ଖରଗୋଶକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଖରଗୋଶଟି ଅନନ୍ୟାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Karan became angry when the bus arrived late.,କରଣ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Sneha could not attend the party because Sneha was not feeling well.,ସ୍ନେହା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Sneha adopted a rabbit. The rabbit followed Sneha everywhere.,ସ୍ନେହା ଗୋଟିଏ ଖରଗୋଶକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଖରଗୋଶଟି ସ୍ନେହାଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Vikram bought a new wallet from the market.,ବିକ୍ରମ ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ଛାତ୍ରମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଛାତ୍ରମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,ସୌରଭ ସ୍କୁଲକୁ ଯାଇଥିଲେ। ସୌରଭ ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Sneha heard the good news and smiled with joy.,ସ୍ନେହା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Neha became angry when the bus arrived late.,ନେହା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,ପୂଜା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,ମୀରା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ମୀରା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ଶ୍ରମିକମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଶ୍ରମିକମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ଆଦିତ୍ୟ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan adopted a parrot. The parrot followed Karan everywhere.,କରଣ ଗୋଟିଏ ଟିଆକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଟିଆଟି କରଣଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Arnab could not attend the party because Arnab was not feeling well.,ଅର୍ଣ୍ଣବ ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,କରଣଙ୍କର ପର୍ସ ହରାଇଗଲା। କରଣ ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Aditya felt scared after hearing the loud noise.,ଆଦିତ୍ୟ ବଡ଼ ଶବ୍ଦ ଶୁଣି ଭୟଭୀତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Karan bought a new bag from the market.,କରଣ ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Neha could not attend the party because Neha was not feeling well.,ନେହା ଶରୀର ଭଲ ନଥିବାରୁ ପାର୍ଟିକୁ ଯାଇପାରିଲେ ନାହିଁ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ସଙ୍ଗମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ସଙ୍ଗମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ବିକ୍ରମ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,କରଣଙ୍କର ପର୍ସ ହରାଇଗଲା। କରଣ ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ଅର୍ଣ୍ଣବ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,ଅର୍ଣ୍ଣବଙ୍କର ପର୍ସ ହରାଇଗଲା। ଅର୍ଣ୍ଣବ ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,ମୀରା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya bought a new laptop from the market.,ପ୍ରିୟା ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Sneha went to school. Sneha was very happy.,ସ୍ନେହା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ସ୍ନେହା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,ରାହୁଲ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ସୌରଭ ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Meera heard the good news and smiled with joy.,ମୀରା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Aditya bought a new wallet from the market.,ଆଦିତ୍ୟ ବଜାରରୁ ନୂଆ ପର୍ସ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ଖେଳାଳିମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଖେଳାଳିମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+"Amit said, 'It is raining cats and dogs outside.'","ଅମିତ କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+"Pooja said, 'It is raining cats and dogs outside.'","ପୂଜା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,ପୂଜା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Priya heard the good news and smiled with joy.,ପ୍ରିୟା ଭଲ ଖବର ଶୁଣି ଖୁସିରେ ହସିଲେ।,No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,କରଣ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Aditya adopted a parrot. The parrot followed Aditya everywhere.,ଆଦିତ୍ୟ ଗୋଟିଏ ଟିଆକୁ ଦତକ ନେଇଥିଲେ। ସେହି ଟିଆଟି ଆଦିତ୍ୟଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+Amit adopted a cat. The cat followed Amit everywhere.,ଅମିତ ଗୋଟିଏ ବିଲେଇକୁ ଦତକ ନେଇଥିଲେ। ସେହି ବିଲେଇଟି ଅମିତଙ୍କୁ ସବୁଠାରେ ଅନୁସରଣ କରୁଥିଲା।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ପିଲାମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ପିଲାମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Amit went to school. Amit was very happy.,ଅମିତ ସ୍କୁଲକୁ ଯାଇଥିଲେ। ଅମିତ ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,କାବ୍ୟାଙ୍କର ପର୍ସ ହରାଇଗଲା। କାବ୍ୟା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Sneha became angry when the bus arrived late.,ସ୍ନେହା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+"Ananya said, 'It is raining cats and dogs outside.'","ଅନନ୍ୟା କହିଲେ, 'ବାହାରେ ଭୟଙ୍କର ବର୍ଷା ହେଉଛି।'",No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ନେହା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav bought a new book from the market.,ସୌରଭ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,ପ୍ରିୟା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Sourav bought a new bag from the market.,ସୌରଭ ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,ଅମିତ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,କରଣ ବଜାରରୁ ନୂଆ ପୁସ୍ତକ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Neha bought a new laptop from the market.,ନେହା ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Riya became angry when the bus arrived late.,ରିୟା ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,କାବ୍ୟାଙ୍କର ପର୍ସ ହରାଇଗଲା। କାବ୍ୟା ବହୁତ ଚିନ୍ତିତ ହୋଇପଡ଼ିଲେ।,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,ମୀରା ସ୍କୁଲକୁ ଯାଇଥିଲେ। ମୀରା ବହୁତ ଖୁସି ଥିଲେ।,No text provided,0.0,0.0,0.0
+Rohan bought a new laptop from the market.,ରୋହନ ବଜାରରୁ ନୂଆ ଲ୍ୟାପଟପ୍ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,ରାହୁଲ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,ପୂଜା ସନ୍ଧ୍ୟାରେ ପାର୍କକୁ ଯାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Amit bought a new bag from the market.,ଅମିତ ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ଶ୍ରମିକମାନେ ଚିଡ଼ିଆଖାନାକୁ ଯାଇଥିଲେ। ଶ୍ରମିକମାନେ ପଶୁମାନଙ୍କୁ ଦେଖି ଆନନ୍ଦ ପାଇଥିଲେ।,No text provided,0.0,0.0,0.0
+Rahul bought a new bag from the market.,ରାହୁଲ ବଜାରରୁ ନୂଆ ବ୍ୟାଗ କିଣିଲେ।,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,ଅର୍ଣ୍ଣବ ବସ ଦେରିରେ ଆସିବାରୁ ରାଗିଗଲେ।,No text provided,0.0,0.0,0.0

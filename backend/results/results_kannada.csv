@@ -1,0 +1,301 @@
+﻿input,ground_truth,model_output,bleu_score,chrf_score,bertscore_f1
+Kavya could not attend the party because Kavya was not feeling well.,ಕಾವ್ಯಾ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Arnab adopted a dog. The dog followed Arnab everywhere.,ಅರ್ಣಬ್ ಒಂದು ನಾಯಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ನಾಯಿ ಅರ್ಣಬ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Priya bought a new bag from the market.,ಪ್ರಿಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ಅರ್ಣಬ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,ಕಾವ್ಯಾ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Meera bought a new bag from the market.,ಮೀರಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ವಿದ್ಯಾರ್ಥಿಗಳು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ವಿದ್ಯಾರ್ಥಿಗಳು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,ಕರಣ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ಅರ್ಣಬ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Pooja adopted a cat. The cat followed Pooja everywhere.,ಪೂಜಾ ಒಂದು ಬೆಕ್ಕುವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಬೆಕ್ಕು ಪೂಜಾ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Vikram bought a new bag from the market.,ವಿಕ್ರಮ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Vikram could not attend the party because Vikram was not feeling well.,ವಿಕ್ರಮ್ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Rohan bought a new phone from the market.,ರೋಹನ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ಸ್ನೇಹಿತರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಸ್ನೇಹಿತರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Rahul heard the good news and smiled with joy.,ರಾಹುಲ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Sourav heard the good news and smiled with joy.,ಸೌರವ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ಕಾರ್ಮಿಕರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಕಾರ್ಮಿಕರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Sneha felt scared after hearing the loud noise.,ಸ್ನೇಹಾ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,ನೇಹಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ವಿದ್ಯಾರ್ಥಿಗಳು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ವಿದ್ಯಾರ್ಥಿಗಳು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Ananya felt scared after hearing the loud noise.,ಅನನ್ಯಾ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ವಿಕ್ರಮ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+"Vikram said, 'It is raining cats and dogs outside.'","ವಿಕ್ರಮ್ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,ಮೀರಾ ಶಾಲೆಗೆ ಹೋದರು. ಮೀರಾ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Rahul adopted a parrot. The parrot followed Rahul everywhere.,ರಾಹುಲ್ ಒಂದು ಗಿಳಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಗಿಳಿ ರಾಹುಲ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ಅನನ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Vikram bought a new wallet from the market.,ವಿಕ್ರಮ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Aditya bought a new phone from the market.,ಆದಿತ್ಯ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Sneha bought a new phone from the market.,ಸ್ನೇಹಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ಸ್ನೇಹಿತರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಸ್ನೇಹಿತರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,ಕರಣ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಕರಣ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Amit bought a new phone from the market.,ಅಮಿತ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,ಕರಣ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಕರಣ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+"Neha said, 'It is raining cats and dogs outside.'","ನೇಹಾ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ಕಾವ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Priya became angry when the bus arrived late.,ಪ್ರಿಯಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Priya bought a new laptop from the market.,ಪ್ರಿಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಲ್ಯಾಪ್‌ಟಾಪ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Ananya felt scared after hearing the loud noise.,ಅನನ್ಯಾ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,ಪೂಜಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Karan heard the good news and smiled with joy.,ಕರಣ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Karan bought a new bag from the market.,ಕರಣ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Ananya bought a new bag from the market.,ಅನನ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ಅರ್ಣಬ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Sneha bought a new bag from the market.,ಸ್ನೇಹಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Vikram heard the good news and smiled with joy.,ವಿಕ್ರಮ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+"Sneha said, 'It is raining cats and dogs outside.'","ಸ್ನೇಹಾ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Ananya bought a new book from the market.,ಅನನ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ಕಾವ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Sourav felt scared after hearing the loud noise.,ಸೌರವ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Meera lost her wallet. Meera became very worried.,ಮೀರಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಮೀರಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,ಮೀರಾ ಶಾಲೆಗೆ ಹೋದರು. ಮೀರಾ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Neha lost her wallet. Neha became very worried.,ನೇಹಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ನೇಹಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Arnab bought a new wallet from the market.,ಅರ್ಣಬ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ಅರ್ಣಬ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Meera lost her wallet. Meera became very worried.,ಮೀರಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಮೀರಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,ಕರಣ್ ಶಾಲೆಗೆ ಹೋದರು. ಕರಣ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,ಪ್ರಿಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Sneha adopted a dog. The dog followed Sneha everywhere.,ಸ್ನೇಹಾ ಒಂದು ನಾಯಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ನಾಯಿ ಸ್ನೇಹಾ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Arnab bought a new phone from the market.,ಅರ್ಣಬ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Ananya bought a new bag from the market.,ಅನನ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Vikram bought a new wallet from the market.,ವಿಕ್ರಮ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Amit went to school. Amit was very happy.,ಅಮಿತ್ ಶಾಲೆಗೆ ಹೋದರು. ಅಮಿತ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ಅರ್ಣಬ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Karan became angry when the bus arrived late.,ಕರಣ್ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+"Amit said, 'It is raining cats and dogs outside.'","ಅಮಿತ್ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ಸೌರವ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,ಕರಣ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಕರಣ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ಅರ್ಣಬ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,ಕಾವ್ಯಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಕಾವ್ಯಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Rahul went to school. Rahul was very happy.,ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋದರು. ರಾಹುಲ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Kavya bought a new bag from the market.,ಕಾವ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ಆಟಗಾರರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಆಟಗಾರರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Kavya could not attend the party because Kavya was not feeling well.,ಕಾವ್ಯಾ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,ಪೂಜಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಪೂಜಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ಸ್ನೇಹಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Kavya bought a new phone from the market.,ಕಾವ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Arnab heard the good news and smiled with joy.,ಅರ್ಣಬ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Arnab heard the good news and smiled with joy.,ಅರ್ಣಬ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Pooja bought a new book from the market.,ಪೂಜಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ರೋಹನ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Karan could not attend the party because Karan was not feeling well.,ಕರಣ್ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ಕಾವ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ಕಾರ್ಮಿಕರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಕಾರ್ಮಿಕರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Sourav heard the good news and smiled with joy.,ಸೌರವ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ಸೌರವ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Pooja bought a new book from the market.,ಪೂಜಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Kavya became angry when the bus arrived late.,ಕಾವ್ಯಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Rohan went to school. Rohan was very happy.,ರೋಹನ್ ಶಾಲೆಗೆ ಹೋದರು. ರೋಹನ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Rohan lost her wallet. Rohan became very worried.,ರೋಹನ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ರೋಹನ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Rahul bought a new bag from the market.,ರಾಹುಲ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,ಪೂಜಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಪೂಜಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Rahul bought a new book from the market.,ರಾಹುಲ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Ananya could not attend the party because Ananya was not feeling well.,ಅನನ್ಯಾ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,ರಾಹುಲ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ರಾಹುಲ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Aditya became angry when the bus arrived late.,ಆದಿತ್ಯ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ಕರಣ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Priya bought a new book from the market.,ಪ್ರಿಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+"Amit said, 'It is raining cats and dogs outside.'","ಅಮಿತ್ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Aditya adopted a horse. The horse followed Aditya everywhere.,ಆದಿತ್ಯ ಒಂದು ಕುದುರೆವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಕುದುರೆ ಆದಿತ್ಯ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ಮಕ್ಕಳು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಮಕ್ಕಳು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Riya adopted a rabbit. The rabbit followed Riya everywhere.,ರಿಯಾ ಒಂದು ಮೊಲವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಮೊಲ ರಿಯಾ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Neha could not attend the party because Neha was not feeling well.,ನೇಹಾ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ವಿದ್ಯಾರ್ಥಿಗಳು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ವಿದ್ಯಾರ್ಥಿಗಳು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Arnab bought a new wallet from the market.,ಅರ್ಣಬ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Karan heard the good news and smiled with joy.,ಕರಣ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+"Vikram said, 'It is raining cats and dogs outside.'","ವಿಕ್ರಮ್ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,ಕರಣ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Rohan could not attend the party because Rohan was not feeling well.,ರೋಹನ್ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Sourav became angry when the bus arrived late.,ಸೌರವ್ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,ರೋಹನ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Aditya bought a new bag from the market.,ಆದಿತ್ಯ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Neha bought a new phone from the market.,ನೇಹಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Sneha became angry when the bus arrived late.,ಸ್ನೇಹಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ವಿಕ್ರಮ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Aditya went to school. Aditya was very happy.,ಆದಿತ್ಯ ಶಾಲೆಗೆ ಹೋದರು. ಆದಿತ್ಯ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,ನೇಹಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ಅನನ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,ಪ್ರಿಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Amit felt scared after hearing the loud noise.,ಅಮಿತ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Aditya felt scared after hearing the loud noise.,ಆದಿತ್ಯ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ಸ್ನೇಹಿತರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಸ್ನೇಹಿತರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Ananya went to school. Ananya was very happy.,ಅನನ್ಯಾ ಶಾಲೆಗೆ ಹೋದರು. ಅನನ್ಯಾ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Riya bought a new book from the market.,ರಿಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Ananya heard the good news and smiled with joy.,ಅನನ್ಯಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,ರಾಹುಲ್ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Sneha bought a new book from the market.,ಸ್ನೇಹಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,ಪೂಜಾ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Priya bought a new book from the market.,ಪ್ರಿಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Kavya heard the good news and smiled with joy.,ಕಾವ್ಯಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,ಕರಣ್ ಶಾಲೆಗೆ ಹೋದರು. ಕರಣ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Amit bought a new phone from the market.,ಅಮಿತ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ಸ್ನೇಹಿತರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಸ್ನೇಹಿತರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Neha bought a new phone from the market.,ನೇಹಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Priya heard the good news and smiled with joy.,ಪ್ರಿಯಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Aditya went to school. Aditya was very happy.,ಆದಿತ್ಯ ಶಾಲೆಗೆ ಹೋದರು. ಆದಿತ್ಯ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Priya went to school. Priya was very happy.,ಪ್ರಿಯಾ ಶಾಲೆಗೆ ಹೋದರು. ಪ್ರಿಯಾ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ಸ್ನೇಹಿತರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಸ್ನೇಹಿತರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ನೇಹಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Vikram bought a new bag from the market.,ವಿಕ್ರಮ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Neha became angry when the bus arrived late.,ನೇಹಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Amit bought a new book from the market.,ಅಮಿತ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,ರಾಹುಲ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ರಾಹುಲ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Pooja adopted a dog. The dog followed Pooja everywhere.,ಪೂಜಾ ಒಂದು ನಾಯಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ನಾಯಿ ಪೂಜಾ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Aditya lost her wallet. Aditya became very worried.,ಆದಿತ್ಯ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಆದಿತ್ಯ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,ಮೀರಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Riya became angry when the bus arrived late.,ರಿಯಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Rahul adopted a cat. The cat followed Rahul everywhere.,ರಾಹುಲ್ ಒಂದು ಬೆಕ್ಕುವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಬೆಕ್ಕು ರಾಹುಲ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ಸ್ನೇಹಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Kavya bought a new wallet from the market.,ಕಾವ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ಆಟಗಾರರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಆಟಗಾರರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,ಸೌರವ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಸೌರವ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Meera bought a new book from the market.,ಮೀರಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,ಪ್ರಿಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ಅನನ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Meera felt scared after hearing the loud noise.,ಮೀರಾ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Riya went to school. Riya was very happy.,ರಿಯಾ ಶಾಲೆಗೆ ಹೋದರು. ರಿಯಾ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Meera bought a new bag from the market.,ಮೀರಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,ರಾಹುಲ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ರಾಹುಲ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Aditya could not attend the party because Aditya was not feeling well.,ಆದಿತ್ಯ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ಸ್ನೇಹಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಸ್ನೇಹಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,ಪೂಜಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Rohan heard the good news and smiled with joy.,ರೋಹನ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Rohan bought a new laptop from the market.,ರೋಹನ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಲ್ಯಾಪ್‌ಟಾಪ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ಆಟಗಾರರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಆಟಗಾರರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Kavya bought a new bag from the market.,ಕಾವ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,ಪೂಜಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಪೂಜಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ರೋಹನ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Aditya heard the good news and smiled with joy.,ಆದಿತ್ಯ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,ಮೀರಾ ಶಾಲೆಗೆ ಹೋದರು. ಮೀರಾ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Amit felt scared after hearing the loud noise.,ಅಮಿತ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Aditya could not attend the party because Aditya was not feeling well.,ಆದಿತ್ಯ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Ananya became angry when the bus arrived late.,ಅನನ್ಯಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,ಅರ್ಣಬ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಅರ್ಣಬ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Rohan adopted a dog. The dog followed Rohan everywhere.,ರೋಹನ್ ಒಂದು ನಾಯಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ನಾಯಿ ರೋಹನ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,ಕಾವ್ಯಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಕಾವ್ಯಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,ಪೂಜಾ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Ananya became angry when the bus arrived late.,ಅನನ್ಯಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ವಿಕ್ರಮ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Riya lost her wallet. Riya became very worried.,ರಿಯಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ರಿಯಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,ಪೂಜಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Sneha bought a new wallet from the market.,ಸ್ನೇಹಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ಕಾವ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Karan bought a new wallet from the market.,ಕರಣ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ಸೌರವ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Riya visited the park in the evening.,ರಿಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Rohan lost her wallet. Rohan became very worried.,ರೋಹನ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ರೋಹನ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Sourav could not attend the party because Sourav was not feeling well.,ಸೌರವ್ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ರೋಹನ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Riya heard the good news and smiled with joy.,ರಿಯಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,ಪೂಜಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ಸ್ನೇಹಿತರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಸ್ನೇಹಿತರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ಸ್ನೇಹಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Riya bought a new phone from the market.,ರಿಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ರೋಹನ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,ಕರಣ್ ಶಾಲೆಗೆ ಹೋದರು. ಕರಣ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,ರೋಹನ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,ಪ್ರಿಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Vikram heard the good news and smiled with joy.,ವಿಕ್ರಮ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Karan bought a new phone from the market.,ಕರಣ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ಮಕ್ಕಳು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಮಕ್ಕಳು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Kavya bought a new phone from the market.,ಕಾವ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಫೋನ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Meera could not attend the party because Meera was not feeling well.,ಮೀರಾ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ಕರಣ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,ಅರ್ಣಬ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಅರ್ಣಬ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Aditya bought a new bag from the market.,ಆದಿತ್ಯ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Vikram felt scared after hearing the loud noise.,ವಿಕ್ರಮ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Meera felt scared after hearing the loud noise.,ಮೀರಾ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ಕಾವ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ರೋಹನ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ಸೌರವ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Meera lost her wallet. Meera became very worried.,ಮೀರಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಮೀರಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Sourav bought a new laptop from the market.,ಸೌರವ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಲ್ಯಾಪ್‌ಟಾಪ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ಸ್ನೇಹಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಸ್ನೇಹಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Arnab bought a new laptop from the market.,ಅರ್ಣಬ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಲ್ಯಾಪ್‌ಟಾಪ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Ananya bought a new bag from the market.,ಅನನ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Ananya bought a new wallet from the market.,ಅನನ್ಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Vikram adopted a dog. The dog followed Vikram everywhere.,ವಿಕ್ರಮ್ ಒಂದು ನಾಯಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ನಾಯಿ ವಿಕ್ರಮ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+"Meera said, 'It is raining cats and dogs outside.'","ಮೀರಾ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Priya heard the good news and smiled with joy.,ಪ್ರಿಯಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ರಾಹುಲ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ಕಾರ್ಮಿಕರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಕಾರ್ಮಿಕರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ಅನನ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Rohan bought a new book from the market.,ರೋಹನ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ರೋಹನ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ಸೌರವ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+"Rahul said, 'It is raining cats and dogs outside.'","ರಾಹುಲ್ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,ನೇಹಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,ಅರ್ಣಬ್ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,ಪೂಜಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಪೂಜಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,ಪೂಜಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,ಪೂಜಾ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Kavya became angry when the bus arrived late.,ಕಾವ್ಯಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Karan heard the good news and smiled with joy.,ಕರಣ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ಆದಿತ್ಯ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Riya bought a new bag from the market.,ರಿಯಾ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Arnab heard the good news and smiled with joy.,ಅರ್ಣಬ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Arnab went to school. Arnab was very happy.,ಅರ್ಣಬ್ ಶಾಲೆಗೆ ಹೋದರು. ಅರ್ಣಬ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,ರೋಹನ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ಆಟಗಾರರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಆಟಗಾರರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Neha adopted a parrot. The parrot followed Neha everywhere.,ನೇಹಾ ಒಂದು ಗಿಳಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಗಿಳಿ ನೇಹಾ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Kavya adopted a dog. The dog followed Kavya everywhere.,ಕಾವ್ಯಾ ಒಂದು ನಾಯಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ನಾಯಿ ಕಾವ್ಯಾ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Amit adopted a dog. The dog followed Amit everywhere.,ಅಮಿತ್ ಒಂದು ನಾಯಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ನಾಯಿ ಅಮಿತ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Vikram bought a new wallet from the market.,ವಿಕ್ರಮ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪರ್ಸ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Sneha heard the good news and smiled with joy.,ಸ್ನೇಹಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Pooja adopted a horse. The horse followed Pooja everywhere.,ಪೂಜಾ ಒಂದು ಕುದುರೆವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಕುದುರೆ ಪೂಜಾ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Arnab heard the good news and smiled with joy.,ಅರ್ಣಬ್ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ಸ್ನೇಹಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಸ್ನೇಹಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+"Kavya said, 'It is raining cats and dogs outside.'","ಕಾವ್ಯಾ ಹೇಳಿದರು, 'ಹೊರಗೆ ಭಾರೀ ಮಳೆ ಬರುತ್ತಿದೆ.'",No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,ಸೌರವ್ ಶಾಲೆಗೆ ಹೋದರು. ಸೌರವ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ಆಟಗಾರರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಆಟಗಾರರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Pooja went to school. Pooja was very happy.,ಪೂಜಾ ಶಾಲೆಗೆ ಹೋದರು. ಪೂಜಾ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Aditya adopted a dog. The dog followed Aditya everywhere.,ಆದಿತ್ಯ ಒಂದು ನಾಯಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ನಾಯಿ ಆದಿತ್ಯ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,ಪೂಜಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Vikram became angry when the bus arrived late.,ವಿಕ್ರಮ್ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Meera heard the good news and smiled with joy.,ಮೀರಾ ಒಳ್ಳೆಯ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಸಂತೋಷದಿಂದ ನಕ್ಕರು.,No text provided,0.0,0.0,0.0
+Amit could not attend the party because Amit was not feeling well.,ಅಮಿತ್ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Rahul bought a new laptop from the market.,ರಾಹುಲ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಲ್ಯಾಪ್‌ಟಾಪ್ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Neha lost her wallet. Neha became very worried.,ನೇಹಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ನೇಹಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Rahul bought a new book from the market.,ರಾಹುಲ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Rahul went to school. Rahul was very happy.,ರಾಹುಲ್ ಶಾಲೆಗೆ ಹೋದರು. ರಾಹುಲ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Karan felt scared after hearing the loud noise.,ಕರಣ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Karan bought a new bag from the market.,ಕರಣ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಚೀಲ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ಅನನ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ಸ್ನೇಹಿತರು ಪ್ರಾಣಿ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು. ಸ್ನೇಹಿತರು ಪ್ರಾಣಿಗಳನ್ನು ನೋಡಿ ಸಂತೋಷಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Sourav bought a new book from the market.,ಸೌರವ್ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ಅನನ್ಯಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಅನನ್ಯಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Vikram became angry when the bus arrived late.,ವಿಕ್ರಮ್ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ರೋಹನ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Rohan lost her wallet. Rohan became very worried.,ರೋಹನ್ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ರೋಹನ್ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ರಾಹುಲ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Kavya went to school. Kavya was very happy.,ಕಾವ್ಯಾ ಶಾಲೆಗೆ ಹೋದರು. ಕಾವ್ಯಾ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Aditya became angry when the bus arrived late.,ಆದಿತ್ಯ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,ಅಮಿತ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Priya lost her wallet. Priya became very worried.,ಪ್ರಿಯಾ ತನ್ನ ಪರ್ಸ್ ಕಳೆದುಕೊಂಡರು. ಪ್ರಿಯಾ ತುಂಬಾ ಚಿಂತಿತರಾದರು.,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,ಅಮಿತ್ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Vikram went to school. Vikram was very happy.,ವಿಕ್ರಮ್ ಶಾಲೆಗೆ ಹೋದರು. ವಿಕ್ರಮ್ ತುಂಬಾ ಸಂತೋಷವಾಗಿದ್ದರು.,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ರಾಹುಲ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Kavya could not attend the party because Kavya was not feeling well.,ಕಾವ್ಯಾ ಆರೋಗ್ಯ ಸರಿಯಾಗಿರದ ಕಾರಣ ಪಾರ್ಟಿಗೆ ಹೋಗಲಿಲ್ಲ.,No text provided,0.0,0.0,0.0
+Sneha adopted a cat. The cat followed Sneha everywhere.,ಸ್ನೇಹಾ ಒಂದು ಬೆಕ್ಕುವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಬೆಕ್ಕು ಸ್ನೇಹಾ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ಕಾವ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Rohan adopted a parrot. The parrot followed Rohan everywhere.,ರೋಹನ್ ಒಂದು ಗಿಳಿವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಗಿಳಿ ರೋಹನ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ಕರಣ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Rahul felt scared after hearing the loud noise.,ರಾಹುಲ್ ದೊಡ್ಡ ಶಬ್ದವನ್ನು ಕೇಳಿ ಭಯಪಟ್ಟರು.,No text provided,0.0,0.0,0.0
+Sneha became angry when the bus arrived late.,ಸ್ನೇಹಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Karan adopted a cat. The cat followed Karan everywhere.,ಕರಣ್ ಒಂದು ಬೆಕ್ಕುವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಬೆಕ್ಕು ಕರಣ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ಅನನ್ಯಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Pooja became angry when the bus arrived late.,ಪೂಜಾ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Vikram became angry when the bus arrived late.,ವಿಕ್ರಮ್ ಬಸ್ ತಡವಾಗಿ ಬಂದ ಕಾರಣ ಕೋಪಗೊಂಡರು.,No text provided,0.0,0.0,0.0
+Aditya bought a new book from the market.,ಆದಿತ್ಯ ಮಾರುಕಟ್ಟೆಯಿಂದ ಹೊಸ ಪುಸ್ತಕ ಖರೀದಿಸಿದರು.,No text provided,0.0,0.0,0.0
+Rahul adopted a cat. The cat followed Rahul everywhere.,ರಾಹುಲ್ ಒಂದು ಬೆಕ್ಕುವನ್ನು ದತ್ತು ಪಡೆದರು. ಆ ಬೆಕ್ಕು ರಾಹುಲ್ ಅವರನ್ನು ಎಲ್ಲೆಡೆ ಹಿಂಬಾಲಿಸಿತು.,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ನೇಹಾ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,ಅಮಿತ್ ಸಂಜೆ ಉದ್ಯಾನವನಕ್ಕೆ ಹೋದರು.,No text provided,0.0,0.0,0.0

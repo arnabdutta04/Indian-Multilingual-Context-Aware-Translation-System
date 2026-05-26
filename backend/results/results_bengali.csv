@@ -1,0 +1,301 @@
+﻿input,ground_truth,model_output,bleu_score,chrf_score,bertscore_f1
+Sourav bought a new phone from the market.,সৌরভ বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,অর্ণব সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,সৌরভ স্কুলে গিয়েছিল। সৌরভ খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Arnab could not attend the party because Arnab was not feeling well.,অর্ণব পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Ananya went to school. Ananya was very happy.,অনন্যা স্কুলে গিয়েছিল। অনন্যা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+"Priya said, 'It is raining cats and dogs outside.'","প্রিয়া বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,করন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,রোহন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,স্নেহা এর মানিব্যাগ হারিয়ে গেছে। স্নেহা খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Amit felt scared after hearing the loud noise.,অমিত জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Vikram could not attend the party because Vikram was not feeling well.,বিক্রম পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ছাত্ররা চিড়িয়াখানায় গিয়েছিল। ছাত্ররা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,পূজা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Kavya became angry when the bus arrived late.,কাব্য বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Priya bought a new bag from the market.,প্রিয়া বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,রোহন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+"Neha said, 'It is raining cats and dogs outside.'","নেহা বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Rohan adopted a parrot. The parrot followed Rohan everywhere.,রোহন একটি টিয়া পাখি দত্তক নিয়েছিল। টিয়া পাখিটি রোহন এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,রোহন বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan went to school. Rohan was very happy.,রোহন স্কুলে গিয়েছিল। রোহন খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Ananya could not attend the party because Ananya was not feeling well.,অনন্যা পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Sneha became angry when the bus arrived late.,স্নেহা বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,মীরা স্কুলে গিয়েছিল। মীরা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Aditya could not attend the party because Aditya was not feeling well.,আদিত্য পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Neha could not attend the party because Neha was not feeling well.,নেহা পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Sourav could not attend the party because Sourav was not feeling well.,সৌরভ পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Meera bought a new phone from the market.,মীরা বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,পূজা জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan adopted a horse. The horse followed Rohan everywhere.,রোহন একটি ঘোড়া দত্তক নিয়েছিল। ঘোড়াটি রোহন এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,সৌরভ স্কুলে গিয়েছিল। সৌরভ খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Sourav adopted a rabbit. The rabbit followed Sourav everywhere.,সৌরভ একটি খরগোশ দত্তক নিয়েছিল। খরগোশটি সৌরভ এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Priya became angry when the bus arrived late.,প্রিয়া বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Neha lost her wallet. Neha became very worried.,নেহা এর মানিব্যাগ হারিয়ে গেছে। নেহা খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Aditya went to school. Aditya was very happy.,আদিত্য স্কুলে গিয়েছিল। আদিত্য খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,করন স্কুলে গিয়েছিল। করন খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Karan bought a new wallet from the market.,করন বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,অনন্যা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,কাব্য সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,স্নেহা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,রাহুল সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,রোহন বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,রোহন জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Vikram felt scared after hearing the loud noise.,বিক্রম জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul felt scared after hearing the loud noise.,রাহুল জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab bought a new bag from the market.,অর্ণব বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Rohan could not attend the party because Rohan was not feeling well.,রোহন পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Rohan adopted a dog. The dog followed Rohan everywhere.,রোহন একটি কুকুর দত্তক নিয়েছিল। কুকুরটি রোহন এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,সৌরভ এর মানিব্যাগ হারিয়ে গেছে। সৌরভ খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,বাচ্চারা চিড়িয়াখানায় গিয়েছিল। বাচ্চারা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,প্রিয়া সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,পূজা জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+"Arnab said, 'It is raining cats and dogs outside.'","অর্ণব বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,বিক্রম সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Meera heard the good news and smiled with joy.,মীরা ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Neha felt scared after hearing the loud noise.,নেহা জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Riya lost her wallet. Riya became very worried.,রিয়া এর মানিব্যাগ হারিয়ে গেছে। রিয়া খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+"Rohan said, 'It is raining cats and dogs outside.'","রোহন বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Pooja bought a new bag from the market.,পূজা বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Sourav bought a new laptop from the market.,সৌরভ বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Riya bought a new book from the market.,রিয়া বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Arnab went to school. Arnab was very happy.,অর্ণব স্কুলে গিয়েছিল। অর্ণব খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Rohan bought a new bag from the market.,রোহন বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+"Neha said, 'It is raining cats and dogs outside.'","নেহা বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ছাত্ররা চিড়িয়াখানায় গিয়েছিল। ছাত্ররা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,বাচ্চারা চিড়িয়াখানায় গিয়েছিল। বাচ্চারা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Amit could not attend the party because Amit was not feeling well.,অমিত পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,রোহন বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Meera bought a new laptop from the market.,মীরা বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,অমিত সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,মীরা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,খেলোয়াড়রা চিড়িয়াখানায় গিয়েছিল। খেলোয়াড়রা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha heard the good news and smiled with joy.,স্নেহা ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Karan adopted a cat. The cat followed Karan everywhere.,করন একটি বিড়াল দত্তক নিয়েছিল। বিড়ালটি করন এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Rohan heard the good news and smiled with joy.,রোহন ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Priya went to school. Priya was very happy.,প্রিয়া স্কুলে গিয়েছিল। প্রিয়া খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Amit bought a new book from the market.,অমিত বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,পূজা বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,স্নেহা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sourav adopted a rabbit. The rabbit followed Sourav everywhere.,সৌরভ একটি খরগোশ দত্তক নিয়েছিল। খরগোশটি সৌরভ এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Riya bought a new laptop from the market.,রিয়া বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,মীরা স্কুলে গিয়েছিল। মীরা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Sneha adopted a dog. The dog followed Sneha everywhere.,স্নেহা একটি কুকুর দত্তক নিয়েছিল। কুকুরটি স্নেহা এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,প্রিয়া সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,অমিত বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit adopted a parrot. The parrot followed Amit everywhere.,অমিত একটি টিয়া পাখি দত্তক নিয়েছিল। টিয়া পাখিটি অমিত এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,রাহুল এর মানিব্যাগ হারিয়ে গেছে। রাহুল খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Kavya became angry when the bus arrived late.,কাব্য বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul bought a new bag from the market.,রাহুল বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Riya felt scared after hearing the loud noise.,রিয়া জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ছাত্ররা চিড়িয়াখানায় গিয়েছিল। ছাত্ররা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Karan heard the good news and smiled with joy.,করন ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,অনন্যা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Priya bought a new book from the market.,প্রিয়া বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Karan felt scared after hearing the loud noise.,করন জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sourav bought a new wallet from the market.,সৌরভ বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Meera bought a new laptop from the market.,মীরা বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Neha went to school. Neha was very happy.,নেহা স্কুলে গিয়েছিল। নেহা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Kavya bought a new bag from the market.,কাব্য বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Ananya bought a new book from the market.,অনন্যা বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Rahul went to school. Rahul was very happy.,রাহুল স্কুলে গিয়েছিল। রাহুল খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,বিক্রম সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,মীরা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,সৌরভ সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+"Neha said, 'It is raining cats and dogs outside.'","নেহা বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Karan could not attend the party because Karan was not feeling well.,করন পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,অমিত বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,পূজা পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,অনন্যা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Ananya heard the good news and smiled with joy.,অনন্যা ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Rahul felt scared after hearing the loud noise.,রাহুল জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit adopted a dog. The dog followed Amit everywhere.,অমিত একটি কুকুর দত্তক নিয়েছিল। কুকুরটি অমিত এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,স্নেহা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan could not attend the party because Rohan was not feeling well.,রোহন পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Arnab went to school. Arnab was very happy.,অর্ণব স্কুলে গিয়েছিল। অর্ণব খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Vikram went to school. Vikram was very happy.,বিক্রম স্কুলে গিয়েছিল। বিক্রম খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Sourav bought a new book from the market.,সৌরভ বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Arnab bought a new book from the market.,অর্ণব বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Aditya bought a new wallet from the market.,আদিত্য বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+"Kavya said, 'It is raining cats and dogs outside.'","কাব্য বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,সৌরভ স্কুলে গিয়েছিল। সৌরভ খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Kavya could not attend the party because Kavya was not feeling well.,কাব্য পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,রোহন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,অর্ণব বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul could not attend the party because Rahul was not feeling well.,রাহুল পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Karan adopted a dog. The dog followed Karan everywhere.,করন একটি কুকুর দত্তক নিয়েছিল। কুকুরটি করন এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,অনন্যা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Ananya could not attend the party because Ananya was not feeling well.,অনন্যা পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Ananya bought a new laptop from the market.,অনন্যা বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Arnab adopted a cat. The cat followed Arnab everywhere.,অর্ণব একটি বিড়াল দত্তক নিয়েছিল। বিড়ালটি অর্ণব এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,অমিত সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,করন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit went to school. Amit was very happy.,অমিত স্কুলে গিয়েছিল। অমিত খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,কাব্য জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+"Sneha said, 'It is raining cats and dogs outside.'","স্নেহা বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,পূজা বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Sneha felt scared after hearing the loud noise.,স্নেহা জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,রাহুল বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,অমিত সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,স্নেহা এর মানিব্যাগ হারিয়ে গেছে। স্নেহা খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,সৌরভ সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja became angry when the bus arrived late.,পূজা বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan bought a new phone from the market.,রোহন বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,স্নেহা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,রোহন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,অর্ণব সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,আদিত্য সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,কাব্য সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+"Amit said, 'It is raining cats and dogs outside.'","অমিত বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Ananya became angry when the bus arrived late.,অনন্যা বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,অনন্যা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,করন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul bought a new book from the market.,রাহুল বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,খেলোয়াড়রা চিড়িয়াখানায় গিয়েছিল। খেলোয়াড়রা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab felt scared after hearing the loud noise.,অর্ণব জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+"Arnab said, 'It is raining cats and dogs outside.'","অর্ণব বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,করন বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Vikram lost her wallet. Vikram became very worried.,বিক্রম এর মানিব্যাগ হারিয়ে গেছে। বিক্রম খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,খেলোয়াড়রা চিড়িয়াখানায় গিয়েছিল। খেলোয়াড়রা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Neha bought a new bag from the market.,নেহা বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Amit felt scared after hearing the loud noise.,অমিত জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Neha bought a new laptop from the market.,নেহা বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,অর্ণব বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,অর্ণব সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,কর্মীরা চিড়িয়াখানায় গিয়েছিল। কর্মীরা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Neha could not attend the party because Neha was not feeling well.,নেহা পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Sneha bought a new laptop from the market.,স্নেহা বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Aditya lost her wallet. Aditya became very worried.,আদিত্য এর মানিব্যাগ হারিয়ে গেছে। আদিত্য খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Kavya bought a new book from the market.,কাব্য বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,নেহা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,রাহুল সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sourav heard the good news and smiled with joy.,সৌরভ ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Kavya bought a new wallet from the market.,কাব্য বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,রাহুল বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Riya bought a new book from the market.,রিয়া বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,বন্ধুরা চিড়িয়াখানায় গিয়েছিল। বন্ধুরা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab felt scared after hearing the loud noise.,অর্ণব জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,অমিত সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,বন্ধুরা চিড়িয়াখানায় গিয়েছিল। বন্ধুরা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,বাচ্চারা চিড়িয়াখানায় গিয়েছিল। বাচ্চারা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,স্নেহা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,কাব্য জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,কাব্য জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,সৌরভ সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,রোহন বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Ananya bought a new phone from the market.,অনন্যা বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,করন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,মীরা স্কুলে গিয়েছিল। মীরা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,করন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha bought a new phone from the market.,স্নেহা বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,পূজা ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Pooja bought a new laptop from the market.,পূজা বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Meera became angry when the bus arrived late.,মীরা বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja bought a new wallet from the market.,পূজা বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,বাচ্চারা চিড়িয়াখানায় গিয়েছিল। বাচ্চারা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Amit went to school. Amit was very happy.,অমিত স্কুলে গিয়েছিল। অমিত খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Pooja went to school. Pooja was very happy.,পূজা স্কুলে গিয়েছিল। পূজা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,কাব্য সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,পূজা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit bought a new bag from the market.,অমিত বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Aditya went to school. Aditya was very happy.,আদিত্য স্কুলে গিয়েছিল। আদিত্য খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Riya visited the park in the evening.,রিয়া সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Priya bought a new wallet from the market.,প্রিয়া বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Arnab bought a new laptop from the market.,অর্ণব বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,রোহন বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,অর্ণব সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,রাহুল সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Neha adopted a horse. The horse followed Neha everywhere.,নেহা একটি ঘোড়া দত্তক নিয়েছিল। ঘোড়াটি নেহা এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,বাচ্চারা চিড়িয়াখানায় গিয়েছিল। বাচ্চারা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan heard the good news and smiled with joy.,রোহন ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,বন্ধুরা চিড়িয়াখানায় গিয়েছিল। বন্ধুরা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Amit adopted a cat. The cat followed Amit everywhere.,অমিত একটি বিড়াল দত্তক নিয়েছিল। বিড়ালটি অমিত এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Sneha bought a new bag from the market.,স্নেহা বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Priya could not attend the party because Priya was not feeling well.,প্রিয়া পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,করন স্কুলে গিয়েছিল। করন খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Pooja adopted a rabbit. The rabbit followed Pooja everywhere.,পূজা একটি খরগোশ দত্তক নিয়েছিল। খরগোশটি পূজা এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Kavya bought a new phone from the market.,কাব্য বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,বন্ধুরা চিড়িয়াখানায় গিয়েছিল। বন্ধুরা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Karan bought a new laptop from the market.,করন বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Meera bought a new wallet from the market.,মীরা বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,কাব্য সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,কাব্য জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab bought a new phone from the market.,অর্ণব বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Rohan went to school. Rohan was very happy.,রোহন স্কুলে গিয়েছিল। রোহন খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,রোহন বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,বন্ধুরা চিড়িয়াখানায় গিয়েছিল। বন্ধুরা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja bought a new book from the market.,পূজা বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Ananya went to school. Ananya was very happy.,অনন্যা স্কুলে গিয়েছিল। অনন্যা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Rahul heard the good news and smiled with joy.,রাহুল ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Ananya bought a new bag from the market.,অনন্যা বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,পূজা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja bought a new laptop from the market.,পূজা বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Kavya bought a new book from the market.,কাব্য বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,অমিত বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Aditya went to school. Aditya was very happy.,আদিত্য স্কুলে গিয়েছিল। আদিত্য খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Ananya went to school. Ananya was very happy.,অনন্যা স্কুলে গিয়েছিল। অনন্যা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ছাত্ররা চিড়িয়াখানায় গিয়েছিল। ছাত্ররা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,নেহা ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Kavya went to school. Kavya was very happy.,কাব্য স্কুলে গিয়েছিল। কাব্য খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Pooja became angry when the bus arrived late.,পূজা বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,রোহন বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Vikram heard the good news and smiled with joy.,বিক্রম ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Sourav bought a new bag from the market.,সৌরভ বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Rahul bought a new wallet from the market.,রাহুল বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Vikram lost her wallet. Vikram became very worried.,বিক্রম এর মানিব্যাগ হারিয়ে গেছে। বিক্রম খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,করন বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,সৌরভ এর মানিব্যাগ হারিয়ে গেছে। সৌরভ খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,বিক্রম সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+"Neha said, 'It is raining cats and dogs outside.'","নেহা বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,কাব্য এর মানিব্যাগ হারিয়ে গেছে। কাব্য খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Rohan could not attend the party because Rohan was not feeling well.,রোহন পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Kavya bought a new wallet from the market.,কাব্য বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,করন সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,সৌরভ এর মানিব্যাগ হারিয়ে গেছে। সৌরভ খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,কাব্য এর মানিব্যাগ হারিয়ে গেছে। কাব্য খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Kavya bought a new wallet from the market.,কাব্য বাজার থেকে একটি নতুন মানিব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,অর্ণব সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+"Arnab said, 'It is raining cats and dogs outside.'","অর্ণব বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,কাব্য জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,স্নেহা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Meera bought a new book from the market.,মীরা বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Kavya bought a new book from the market.,কাব্য বাজার থেকে একটি নতুন বই কিনেছে।,No text provided,0.0,0.0,0.0
+Meera adopted a parrot. The parrot followed Meera everywhere.,মীরা একটি টিয়া পাখি দত্তক নিয়েছিল। টিয়া পাখিটি মীরা এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Vikram bought a new laptop from the market.,বিক্রম বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,অর্ণব বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,প্রিয়া সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit lost her wallet. Amit became very worried.,অমিত এর মানিব্যাগ হারিয়ে গেছে। অমিত খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,অর্ণব এর মানিব্যাগ হারিয়ে গেছে। অর্ণব খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Neha bought a new bag from the market.,নেহা বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+Rohan bought a new laptop from the market.,রোহন বাজার থেকে একটি নতুন ল্যাপটপ কিনেছে।,No text provided,0.0,0.0,0.0
+Priya felt scared after hearing the loud noise.,প্রিয়া জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,রাহুল বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Ananya heard the good news and smiled with joy.,অনন্যা ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,পূজা পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Meera could not attend the party because Meera was not feeling well.,মীরা পার্টিতে যেতে পারেনি কারণ তার শরীর ভালো ছিল না।,No text provided,0.0,0.0,0.0
+Neha adopted a horse. The horse followed Neha everywhere.,নেহা একটি ঘোড়া দত্তক নিয়েছিল। ঘোড়াটি নেহা এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,স্নেহা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit went to school. Amit was very happy.,অমিত স্কুলে গিয়েছিল। অমিত খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,অর্ণব বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,পূজা বাজার থেকে একটি নতুন ফোন কিনেছে।,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,পূজা জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha adopted a rabbit. The rabbit followed Sneha everywhere.,স্নেহা একটি খরগোশ দত্তক নিয়েছিল। খরগোশটি স্নেহা এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,বন্ধুরা চিড়িয়াখানায় গিয়েছিল। বন্ধুরা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ছাত্ররা চিড়িয়াখানায় গিয়েছিল। ছাত্ররা প্রাণীগুলো দেখে খুব আনন্দ পেয়েছিল।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,অনন্যা সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Sneha went to school. Sneha was very happy.,স্নেহা স্কুলে গিয়েছিল। স্নেহা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,সৌরভ সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Amit lost her wallet. Amit became very worried.,অমিত এর মানিব্যাগ হারিয়ে গেছে। অমিত খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Riya adopted a parrot. The parrot followed Riya everywhere.,রিয়া একটি টিয়া পাখি দত্তক নিয়েছিল। টিয়া পাখিটি রিয়া এর পিছনে সব জায়গায় যেত।,No text provided,0.0,0.0,0.0
+"Vikram said, 'It is raining cats and dogs outside.'","বিক্রম বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Riya heard the good news and smiled with joy.,রিয়া ভালো খবর শুনে আনন্দে হাসল।,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,পূজা জোরে শব্দ শুনে ভয় পেয়ে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Riya bought a new bag from the market.,রিয়া বাজার থেকে একটি নতুন ব্যাগ কিনেছে।,No text provided,0.0,0.0,0.0
+"Sneha said, 'It is raining cats and dogs outside.'","স্নেহা বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Neha went to school. Neha was very happy.,নেহা স্কুলে গিয়েছিল। নেহা খুব খুশি ছিল।,No text provided,0.0,0.0,0.0
+"Aditya said, 'It is raining cats and dogs outside.'","আদিত্য বলল, 'বাইরে মুষলধারে বৃষ্টি হচ্ছে।'",No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,রাহুল এর মানিব্যাগ হারিয়ে গেছে। রাহুল খুব চিন্তিত হয়ে পড়েছিল।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,কাব্য সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,অর্ণব সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,রাহুল বাস দেরিতে আসায় রেগে গিয়েছিল।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,কাব্য সন্ধ্যায় পার্কে গিয়েছিল।,No text provided,0.0,0.0,0.0

@@ -7,7 +7,7 @@ import {
   Settings, Image, KeyboardIcon, BarChart2
 } from 'lucide-react';
 
-const API_URL = '';
+const API_URL = 'http://127.0.0.1:8000';
 
 const LANGUAGES = [
   'english',

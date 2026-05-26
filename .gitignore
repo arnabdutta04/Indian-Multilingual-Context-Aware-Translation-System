@@ -17,7 +17,7 @@ __pycache__/
 trained_models/
 models/
 data/
-datasets/
+dataset/
 *.pt
 *.h5
 *.pkl

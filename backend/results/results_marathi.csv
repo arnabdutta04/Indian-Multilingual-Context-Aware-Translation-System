@@ -1,0 +1,301 @@
+﻿input,ground_truth,model_output,bleu_score,chrf_score,bertscore_f1
+Riya bought a new book from the market.,रिया ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,मीरा शाळेत गेला. मीरा खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,अमित संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,सौरव संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,पूजा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Aditya could not attend the party because Aditya was not feeling well.,आदित्य तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Sneha became angry when the bus arrived late.,स्नेहा बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Kavya bought a new phone from the market.,काव्या ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Rohan bought a new bag from the market.,रोहन ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+"Rohan said, 'It is raining cats and dogs outside.'","रोहन म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Aditya went to school. Aditya was very happy.,आदित्य शाळेत गेला. आदित्य खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,काव्या मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,अमित बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+"Ananya said, 'It is raining cats and dogs outside.'","अनन्या म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Ananya bought a new book from the market.,अनन्या ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,स्नेहा चे पाकीट हरवले. स्नेहा खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,कामगार प्राणीसंग्रहालयात गेले. कामगार प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,मित्र प्राणीसंग्रहालयात गेले. मित्र प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,पूजा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,प्रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,अर्णब संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,विक्रम संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Aditya could not attend the party because Aditya was not feeling well.,आदित्य तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Aditya could not attend the party because Aditya was not feeling well.,आदित्य तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Vikram lost her wallet. Vikram became very worried.,विक्रम चे पाकीट हरवले. विक्रम खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,अनन्या संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+"Aditya said, 'It is raining cats and dogs outside.'","आदित्य म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,अर्णब चे पाकीट हरवले. अर्णब खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,करण ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Riya bought a new bag from the market.,रिया ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,मीरा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,खेळाडू प्राणीसंग्रहालयात गेले. खेळाडू प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Karan bought a new laptop from the market.,करण ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Aditya felt scared after hearing the loud noise.,आदित्य मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Meera bought a new phone from the market.,मीरा ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Neha adopted a parrot. The parrot followed Neha everywhere.,नेहा ने एक पोपट दत्तक घेतला. तो नेहा च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,पूजा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,मीरा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,अर्णब संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Kavya went to school. Kavya was very happy.,काव्या शाळेत गेला. काव्या खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Vikram went to school. Vikram was very happy.,विक्रम शाळेत गेला. विक्रम खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,अनन्या संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+"Amit said, 'It is raining cats and dogs outside.'","अमित म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Priya lost her wallet. Priya became very worried.,प्रिया चे पाकीट हरवले. प्रिया खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Priya bought a new phone from the market.,प्रिया ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Sourav bought a new wallet from the market.,सौरव ने बाजारातून नवीन पाकीट विकत घेतले.,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,मुले प्राणीसंग्रहालयात गेले. मुले प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,अर्णब बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Karan bought a new laptop from the market.,करण ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,करण शाळेत गेला. करण खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Kavya bought a new laptop from the market.,काव्या ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Arnab bought a new book from the market.,अर्णब ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Amit could not attend the party because Amit was not feeling well.,अमित तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Ananya heard the good news and smiled with joy.,अनन्या ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,पूजा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Arnab became angry when the bus arrived late.,अर्णब बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Ananya became angry when the bus arrived late.,अनन्या बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Kavya became angry when the bus arrived late.,काव्या बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,कामगार प्राणीसंग्रहालयात गेले. कामगार प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Priya bought a new bag from the market.,प्रिया ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Ananya bought a new wallet from the market.,अनन्या ने बाजारातून नवीन पाकीट विकत घेतले.,No text provided,0.0,0.0,0.0
+Karan could not attend the party because Karan was not feeling well.,करण तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,विक्रम संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,सौरव शाळेत गेला. सौरव खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Rohan heard the good news and smiled with joy.,रोहन ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Amit bought a new bag from the market.,अमित ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Kavya adopted a parrot. The parrot followed Kavya everywhere.,काव्या ने एक पोपट दत्तक घेतला. तो काव्या च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Riya visited the park in the evening.,रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,अर्णब चे पाकीट हरवले. अर्णब खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,पूजा ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Neha bought a new phone from the market.,नेहा ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Sourav could not attend the party because Sourav was not feeling well.,सौरव तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Arnab bought a new phone from the market.,अर्णब ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,पूजा मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Pooja adopted a rabbit. The rabbit followed Pooja everywhere.,पूजा ने एक ससा दत्तक घेतला. तो पूजा च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,रोहन संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sourav heard the good news and smiled with joy.,सौरव ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,अर्णब चे पाकीट हरवले. अर्णब खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,अर्णब संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+"Arnab said, 'It is raining cats and dogs outside.'","अर्णब म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Amit lost her wallet. Amit became very worried.,अमित चे पाकीट हरवले. अमित खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,करण शाळेत गेला. करण खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,सौरव संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sneha became angry when the bus arrived late.,स्नेहा बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,अनन्या संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Arnab bought a new bag from the market.,अर्णब ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Priya bought a new book from the market.,प्रिया ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Meera could not attend the party because Meera was not feeling well.,मीरा तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Neha went to school. Neha was very happy.,नेहा शाळेत गेला. नेहा खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,रोहन ने बाजारातून नवीन पाकीट विकत घेतले.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,मीरा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,मीरा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,पूजा मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Priya felt scared after hearing the loud noise.,प्रिया मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,काव्या मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Sourav heard the good news and smiled with joy.,सौरव ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,स्नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Meera adopted a parrot. The parrot followed Meera everywhere.,मीरा ने एक पोपट दत्तक घेतला. तो मीरा च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Karan became angry when the bus arrived late.,करण बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,विद्यार्थी प्राणीसंग्रहालयात गेले. विद्यार्थी प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,प्रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,सौरव शाळेत गेला. सौरव खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,काव्या संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+"Kavya said, 'It is raining cats and dogs outside.'","काव्या म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,खेळाडू प्राणीसंग्रहालयात गेले. खेळाडू प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Pooja bought a new bag from the market.,पूजा ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+"Priya said, 'It is raining cats and dogs outside.'","प्रिया म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,विद्यार्थी प्राणीसंग्रहालयात गेले. विद्यार्थी प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Priya adopted a horse. The horse followed Priya everywhere.,प्रिया ने एक घोडा दत्तक घेतला. तो प्रिया च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Arnab heard the good news and smiled with joy.,अर्णब ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,रोहन संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Riya bought a new phone from the market.,रिया ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Kavya bought a new book from the market.,काव्या ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Sneha went to school. Sneha was very happy.,स्नेहा शाळेत गेला. स्नेहा खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,अर्णब संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,अनन्या चे पाकीट हरवले. अनन्या खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,रोहन बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,मीरा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Kavya became angry when the bus arrived late.,काव्या बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Rohan adopted a rabbit. The rabbit followed Rohan everywhere.,रोहन ने एक ससा दत्तक घेतला. तो रोहन च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,पूजा ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,पूजा मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Pooja bought a new book from the market.,पूजा ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,अर्णब संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Meera heard the good news and smiled with joy.,मीरा ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Meera bought a new book from the market.,मीरा ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,रोहन बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Amit adopted a horse. The horse followed Amit everywhere.,अमित ने एक घोडा दत्तक घेतला. तो अमित च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Ananya bought a new bag from the market.,अनन्या ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Arnab heard the good news and smiled with joy.,अर्णब ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Kavya could not attend the party because Kavya was not feeling well.,काव्या तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,पूजा ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Aditya went to school. Aditya was very happy.,आदित्य शाळेत गेला. आदित्य खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Rohan bought a new bag from the market.,रोहन ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,करण शाळेत गेला. करण खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,काव्या संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,अर्णब संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,विक्रम संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Kavya bought a new laptop from the market.,काव्या ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+"Neha said, 'It is raining cats and dogs outside.'","नेहा म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,आदित्य संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Ananya felt scared after hearing the loud noise.,अनन्या मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,अर्णब चे पाकीट हरवले. अर्णब खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Riya went to school. Riya was very happy.,रिया शाळेत गेला. रिया खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Rahul felt scared after hearing the loud noise.,राहुल मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Sneha heard the good news and smiled with joy.,स्नेहा ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,प्रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,स्नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+"Pooja said, 'It is raining cats and dogs outside.'","पूजा म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+"Aditya said, 'It is raining cats and dogs outside.'","आदित्य म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Priya lost her wallet. Priya became very worried.,प्रिया चे पाकीट हरवले. प्रिया खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,पूजा तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,काव्या संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Riya bought a new bag from the market.,रिया ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Amit bought a new bag from the market.,अमित ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Rohan lost her wallet. Rohan became very worried.,रोहन चे पाकीट हरवले. रोहन खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Vikram went to school. Vikram was very happy.,विक्रम शाळेत गेला. विक्रम खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,रोहन संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,आदित्य संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Meera could not attend the party because Meera was not feeling well.,मीरा तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,सौरव शाळेत गेला. सौरव खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,मीरा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Aditya bought a new bag from the market.,आदित्य ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,अमित संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Ananya heard the good news and smiled with joy.,अनन्या ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,अनन्या संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Priya went to school. Priya was very happy.,प्रिया शाळेत गेला. प्रिया खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Aditya bought a new book from the market.,आदित्य ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Sourav adopted a cat. The cat followed Sourav everywhere.,सौरव ने एक मांजर दत्तक घेतला. तो सौरव च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Amit lost her wallet. Amit became very worried.,अमित चे पाकीट हरवले. अमित खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Kavya adopted a cat. The cat followed Kavya everywhere.,काव्या ने एक मांजर दत्तक घेतला. तो काव्या च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Rahul bought a new laptop from the market.,राहुल ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Arnab bought a new laptop from the market.,अर्णब ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,पूजा चे पाकीट हरवले. पूजा खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,प्रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Neha became angry when the bus arrived late.,नेहा बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,अर्णब चे पाकीट हरवले. अर्णब खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,स्नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Vikram bought a new bag from the market.,विक्रम ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,विद्यार्थी प्राणीसंग्रहालयात गेले. विद्यार्थी प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,सौरव चे पाकीट हरवले. सौरव खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,विक्रम संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Riya felt scared after hearing the loud noise.,रिया मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,राहुल चे पाकीट हरवले. राहुल खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,खेळाडू प्राणीसंग्रहालयात गेले. खेळाडू प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,मुले प्राणीसंग्रहालयात गेले. मुले प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Amit went to school. Amit was very happy.,अमित शाळेत गेला. अमित खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Rohan bought a new laptop from the market.,रोहन ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Rohan bought a new laptop from the market.,रोहन ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Arnab bought a new book from the market.,अर्णब ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Amit lost her wallet. Amit became very worried.,अमित चे पाकीट हरवले. अमित खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Priya felt scared after hearing the loud noise.,प्रिया मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Riya bought a new laptop from the market.,रिया ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Rohan heard the good news and smiled with joy.,रोहन ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Meera heard the good news and smiled with joy.,मीरा ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,मीरा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,स्नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,प्रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Riya bought a new laptop from the market.,रिया ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+"Rahul said, 'It is raining cats and dogs outside.'","राहुल म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Sneha bought a new wallet from the market.,स्नेहा ने बाजारातून नवीन पाकीट विकत घेतले.,No text provided,0.0,0.0,0.0
+Sneha bought a new phone from the market.,स्नेहा ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Priya bought a new bag from the market.,प्रिया ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,करण ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,खेळाडू प्राणीसंग्रहालयात गेले. खेळाडू प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+"Ananya said, 'It is raining cats and dogs outside.'","अनन्या म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,कामगार प्राणीसंग्रहालयात गेले. कामगार प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Karan went to school. Karan was very happy.,करण शाळेत गेला. करण खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+"Kavya said, 'It is raining cats and dogs outside.'","काव्या म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,खेळाडू प्राणीसंग्रहालयात गेले. खेळाडू प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,विद्यार्थी प्राणीसंग्रहालयात गेले. विद्यार्थी प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Ananya adopted a dog. The dog followed Ananya everywhere.,अनन्या ने एक कुत्रा दत्तक घेतला. तो अनन्या च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Pooja bought a new book from the market.,पूजा ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Meera felt scared after hearing the loud noise.,मीरा मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Sneha bought a new wallet from the market.,स्नेहा ने बाजारातून नवीन पाकीट विकत घेतले.,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,रोहन मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Arnab went to school. Arnab was very happy.,अर्णब शाळेत गेला. अर्णब खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,स्नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,मीरा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,खेळाडू प्राणीसंग्रहालयात गेले. खेळाडू प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Neha bought a new phone from the market.,नेहा ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,खेळाडू प्राणीसंग्रहालयात गेले. खेळाडू प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Karan felt scared after hearing the loud noise.,करण मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Rahul went to school. Rahul was very happy.,राहुल शाळेत गेला. राहुल खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Riya bought a new laptop from the market.,रिया ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Pooja went to school. Pooja was very happy.,पूजा शाळेत गेला. पूजा खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Amit felt scared after hearing the loud noise.,अमित मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Arnab adopted a parrot. The parrot followed Arnab everywhere.,अर्णब ने एक पोपट दत्तक घेतला. तो अर्णब च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+"Sneha said, 'It is raining cats and dogs outside.'","स्नेहा म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Rahul went to school. Rahul was very happy.,राहुल शाळेत गेला. राहुल खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+"Vikram said, 'It is raining cats and dogs outside.'","विक्रम म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Meera bought a new book from the market.,मीरा ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,अर्णब संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Riya bought a new bag from the market.,रिया ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Priya adopted a horse. The horse followed Priya everywhere.,प्रिया ने एक घोडा दत्तक घेतला. तो प्रिया च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Neha bought a new laptop from the market.,नेहा ने बाजारातून नवीन लॅपटॉप विकत घेतले.,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,पूजा मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,पूजा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,कामगार प्राणीसंग्रहालयात गेले. कामगार प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,मित्र प्राणीसंग्रहालयात गेले. मित्र प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Rohan bought a new phone from the market.,रोहन ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,मुले प्राणीसंग्रहालयात गेले. मुले प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Riya felt scared after hearing the loud noise.,रिया मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,करण चे पाकीट हरवले. करण खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Priya bought a new phone from the market.,प्रिया ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Aditya heard the good news and smiled with joy.,आदित्य ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Karan bought a new wallet from the market.,करण ने बाजारातून नवीन पाकीट विकत घेतले.,No text provided,0.0,0.0,0.0
+Kavya adopted a parrot. The parrot followed Kavya everywhere.,काव्या ने एक पोपट दत्तक घेतला. तो काव्या च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Priya heard the good news and smiled with joy.,प्रिया ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+"Kavya said, 'It is raining cats and dogs outside.'","काव्या म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,राहुल संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Pooja went to school. Pooja was very happy.,पूजा शाळेत गेला. पूजा खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Amit heard the good news and smiled with joy.,अमित ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,मित्र प्राणीसंग्रहालयात गेले. मित्र प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,नेहा ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,सौरव संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,पूजा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Rohan heard the good news and smiled with joy.,रोहन ने चांगली बातमी ऐकून आनंदाने हसले.,No text provided,0.0,0.0,0.0
+Meera lost her wallet. Meera became very worried.,मीरा चे पाकीट हरवले. मीरा खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,अमित संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Aditya lost her wallet. Aditya became very worried.,आदित्य चे पाकीट हरवले. आदित्य खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Rohan went to school. Rohan was very happy.,रोहन शाळेत गेला. रोहन खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,मुले प्राणीसंग्रहालयात गेले. मुले प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,अनन्या संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sneha went to school. Sneha was very happy.,स्नेहा शाळेत गेला. स्नेहा खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Riya bought a new phone from the market.,रिया ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Rahul felt scared after hearing the loud noise.,राहुल मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Riya adopted a cat. The cat followed Riya everywhere.,रिया ने एक मांजर दत्तक घेतला. तो रिया च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,राहुल संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,स्नेहा संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Kavya bought a new phone from the market.,काव्या ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,प्रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Pooja became angry when the bus arrived late.,पूजा बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,प्रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,प्रिया संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+Pooja felt scared after hearing the loud noise.,पूजा मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Sourav could not attend the party because Sourav was not feeling well.,सौरव तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0
+Vikram adopted a parrot. The parrot followed Vikram everywhere.,विक्रम ने एक पोपट दत्तक घेतला. तो विक्रम च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Meera lost her wallet. Meera became very worried.,मीरा चे पाकीट हरवले. मीरा खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Aditya bought a new phone from the market.,आदित्य ने बाजारातून नवीन फोन विकत घेतले.,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,काव्या चे पाकीट हरवले. काव्या खूप चिंतेत पडली.,No text provided,0.0,0.0,0.0
+Pooja went to school. Pooja was very happy.,पूजा शाळेत गेला. पूजा खूप आनंदी होता.,No text provided,0.0,0.0,0.0
+Sneha bought a new bag from the market.,स्नेहा ने बाजारातून नवीन पिशवी विकत घेतले.,No text provided,0.0,0.0,0.0
+Sneha felt scared after hearing the loud noise.,स्नेहा मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Arnab felt scared after hearing the loud noise.,अर्णब मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,अमित संध्याकाळी उद्यानात गेला.,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,खेळाडू प्राणीसंग्रहालयात गेले. खेळाडू प्राणी पाहून आनंदी झाले.,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,रोहन बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,अमित बस उशिरा आल्यामुळे रागावला.,No text provided,0.0,0.0,0.0
+"Riya said, 'It is raining cats and dogs outside.'","रिया म्हणाला, 'बाहेर मुसळधार पाऊस पडत आहे.'",No text provided,0.0,0.0,0.0
+Sneha bought a new book from the market.,स्नेहा ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Riya adopted a parrot. The parrot followed Riya everywhere.,रिया ने एक पोपट दत्तक घेतला. तो रिया च्या मागे सर्वत्र फिरत होता.,No text provided,0.0,0.0,0.0
+Rahul felt scared after hearing the loud noise.,राहुल मोठा आवाज ऐकून घाबरला.,No text provided,0.0,0.0,0.0
+Vikram bought a new wallet from the market.,विक्रम ने बाजारातून नवीन पाकीट विकत घेतले.,No text provided,0.0,0.0,0.0
+Riya bought a new book from the market.,रिया ने बाजारातून नवीन पुस्तक विकत घेतले.,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,पूजा तब्येत ठीक नसल्यामुळे पार्टीला जाऊ शकला नाही.,No text provided,0.0,0.0,0.0

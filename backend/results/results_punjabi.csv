@@ -1,0 +1,301 @@
+﻿input,ground_truth,model_output,bleu_score,chrf_score,bertscore_f1
+Neha adopted a cat. The cat followed Neha everywhere.,ਨੇਹਾ ਨੇ ਇੱਕ ਬਿੱਲੀ ਗੋਦ ਲਿਆ। ਉਹ ਨੇਹਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+"Sneha said, 'It is raining cats and dogs outside.'","ਸਨੇਹਾ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Ananya became angry when the bus arrived late.,ਅਨਨਿਆ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Vikram adopted a dog. The dog followed Vikram everywhere.,ਵਿਕਰਮ ਨੇ ਇੱਕ ਕੁੱਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਵਿਕਰਮ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ਅਰਨਬ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav felt scared after hearing the loud noise.,ਸੌਰਵ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,ਮੀਰਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Riya lost her wallet. Riya became very worried.,ਰਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਰਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Pooja went to school. Pooja was very happy.,ਪੂਜਾ ਸਕੂਲ ਗਿਆ। ਪੂਜਾ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,ਰਾਹੁਲ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Aditya bought a new bag from the market.,ਆਦਿਤਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ਅਨਨਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਅਨਨਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Neha became angry when the bus arrived late.,ਨੇਹਾ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+"Vikram said, 'It is raining cats and dogs outside.'","ਵਿਕਰਮ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Sneha became angry when the bus arrived late.,ਸਨੇਹਾ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha bought a new laptop from the market.,ਸਨੇਹਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ਕਰਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ਸੌਰਵ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul bought a new wallet from the market.,ਰਾਹੁਲ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ਕਾਵਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Riya bought a new bag from the market.,ਰਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Priya could not attend the party because Priya was not feeling well.,ਪ੍ਰਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Pooja went to school. Pooja was very happy.,ਪੂਜਾ ਸਕੂਲ ਗਿਆ। ਪੂਜਾ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ਕਰਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Aditya could not attend the party because Aditya was not feeling well.,ਆਦਿਤਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ਕਰਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Neha adopted a horse. The horse followed Neha everywhere.,ਨੇਹਾ ਨੇ ਇੱਕ ਘੋੜਾ ਗੋਦ ਲਿਆ। ਉਹ ਨੇਹਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Meera bought a new wallet from the market.,ਮੀਰਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Priya bought a new phone from the market.,ਪ੍ਰਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,ਮੀਰਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha heard the good news and smiled with joy.,ਸਨੇਹਾ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Pooja bought a new book from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Priya became angry when the bus arrived late.,ਪ੍ਰਿਆ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rohan lost her wallet. Rohan became very worried.,ਰੋਹਨ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਰੋਹਨ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Pooja bought a new wallet from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Ananya bought a new book from the market.,ਅਨਨਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ਰਾਹੁਲ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Vikram bought a new phone from the market.,ਵਿਕਰਮ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja bought a new wallet from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Aditya felt scared after hearing the loud noise.,ਆਦਿਤਿਆ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,ਨੇਹਾ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ਅਨਨਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਅਨਨਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ਅਰਨਬ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,ਸੌਰਵ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਸੌਰਵ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Sneha bought a new laptop from the market.,ਸਨੇਹਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Kavya felt scared after hearing the loud noise.,ਕਾਵਿਆ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ਰਾਹੁਲ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,ਰੋਹਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,ਪੂਜਾ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਪੂਜਾ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ਆਦਿਤਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul bought a new laptop from the market.,ਰਾਹੁਲ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ਰੋਹਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ਖਿਡਾਰੀ ਚਿੜੀਆਘਰ ਗਏ। ਖਿਡਾਰੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ਖਿਡਾਰੀ ਚਿੜੀਆਘਰ ਗਏ। ਖਿਡਾਰੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ਅਨਨਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Kavya lost her wallet. Kavya became very worried.,ਕਾਵਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਕਾਵਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Rohan went to school. Rohan was very happy.,ਰੋਹਨ ਸਕੂਲ ਗਿਆ। ਰੋਹਨ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,ਰੋਹਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Arnab lost her wallet. Arnab became very worried.,ਅਰਨਬ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਅਰਨਬ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Amit bought a new bag from the market.,ਅਮਿਤ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ਸਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Ananya became angry when the bus arrived late.,ਅਨਨਿਆ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Riya heard the good news and smiled with joy.,ਰਿਆ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Kavya could not attend the party because Kavya was not feeling well.,ਕਾਵਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,ਪੂਜਾ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਪੂਜਾ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ਅਨਨਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Ananya adopted a parrot. The parrot followed Ananya everywhere.,ਅਨਨਿਆ ਨੇ ਇੱਕ ਤੋਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਅਨਨਿਆ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ਖਿਡਾਰੀ ਚਿੜੀਆਘਰ ਗਏ। ਖਿਡਾਰੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ਅਰਨਬ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Kavya bought a new phone from the market.,ਕਾਵਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ਕਰਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Arnab adopted a dog. The dog followed Arnab everywhere.,ਅਰਨਬ ਨੇ ਇੱਕ ਕੁੱਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਅਰਨਬ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav went to school. Sourav was very happy.,ਸੌਰਵ ਸਕੂਲ ਗਿਆ। ਸੌਰਵ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,ਰੋਹਨ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ਖਿਡਾਰੀ ਚਿੜੀਆਘਰ ਗਏ। ਖਿਡਾਰੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Meera adopted a horse. The horse followed Meera everywhere.,ਮੀਰਾ ਨੇ ਇੱਕ ਘੋੜਾ ਗੋਦ ਲਿਆ। ਉਹ ਮੀਰਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ਸੌਰਵ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul bought a new book from the market.,ਰਾਹੁਲ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Rahul bought a new phone from the market.,ਰਾਹੁਲ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Rahul felt scared after hearing the loud noise.,ਰਾਹੁਲ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ਵਿਕਰਮ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ਮਜ਼ਦੂਰ ਚਿੜੀਆਘਰ ਗਏ। ਮਜ਼ਦੂਰ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+"Karan said, 'It is raining cats and dogs outside.'","ਕਰਨ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Rahul felt scared after hearing the loud noise.,ਰਾਹੁਲ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+"Riya said, 'It is raining cats and dogs outside.'","ਰਿਆ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul adopted a horse. The horse followed Rahul everywhere.,ਰਾਹੁਲ ਨੇ ਇੱਕ ਘੋੜਾ ਗੋਦ ਲਿਆ। ਉਹ ਰਾਹੁਲ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha became angry when the bus arrived late.,ਸਨੇਹਾ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Vikram felt scared after hearing the loud noise.,ਵਿਕਰਮ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Meera bought a new laptop from the market.,ਮੀਰਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Meera heard the good news and smiled with joy.,ਮੀਰਾ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ਅਰਨਬ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Aditya went to school. Aditya was very happy.,ਆਦਿਤਿਆ ਸਕੂਲ ਗਿਆ। ਆਦਿਤਿਆ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Rahul bought a new phone from the market.,ਰਾਹੁਲ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Vikram bought a new wallet from the market.,ਵਿਕਰਮ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Priya visited the park in the evening.,ਪ੍ਰਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ਵਿਦਿਆਰਥੀ ਚਿੜੀਆਘਰ ਗਏ। ਵਿਦਿਆਰਥੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+"Arnab said, 'It is raining cats and dogs outside.'","ਅਰਨਬ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Kavya adopted a horse. The horse followed Kavya everywhere.,ਕਾਵਿਆ ਨੇ ਇੱਕ ਘੋੜਾ ਗੋਦ ਲਿਆ। ਉਹ ਕਾਵਿਆ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav could not attend the party because Sourav was not feeling well.,ਸੌਰਵ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Ananya heard the good news and smiled with joy.,ਅਨਨਿਆ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Riya visited the park in the evening.,ਰਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Vikram bought a new bag from the market.,ਵਿਕਰਮ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,ਪੂਜਾ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਪੂਜਾ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Karan adopted a parrot. The parrot followed Karan everywhere.,ਕਰਨ ਨੇ ਇੱਕ ਤੋਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਕਰਨ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ਰੋਹਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Arnab went to school. Arnab was very happy.,ਅਰਨਬ ਸਕੂਲ ਗਿਆ। ਅਰਨਬ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Rahul bought a new laptop from the market.,ਰਾਹੁਲ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Amit bought a new laptop from the market.,ਅਮਿਤ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ਸਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,ਕਰਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ਅਨਨਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਅਨਨਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Amit heard the good news and smiled with joy.,ਅਮਿਤ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ਕਰਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ਸਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Karan visited the park in the evening.,ਕਰਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Arnab went to school. Arnab was very happy.,ਅਰਨਬ ਸਕੂਲ ਗਿਆ। ਅਰਨਬ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ਰਾਹੁਲ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,ਰਾਹੁਲ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਰਾਹੁਲ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Karan bought a new wallet from the market.,ਕਰਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,ਕਰਨ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਕਰਨ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Riya visited the park in the evening.,ਰਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Aditya bought a new wallet from the market.,ਆਦਿਤਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+"Riya said, 'It is raining cats and dogs outside.'","ਰਿਆ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Riya bought a new book from the market.,ਰਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Karan bought a new wallet from the market.,ਕਰਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja adopted a rabbit. The rabbit followed Pooja everywhere.,ਪੂਜਾ ਨੇ ਇੱਕ ਖਰਗੋਸ਼ ਗੋਦ ਲਿਆ। ਉਹ ਪੂਜਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul heard the good news and smiled with joy.,ਰਾਹੁਲ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Vikram went to school. Vikram was very happy.,ਵਿਕਰਮ ਸਕੂਲ ਗਿਆ। ਵਿਕਰਮ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Ananya could not attend the party because Ananya was not feeling well.,ਅਨਨਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,ਰਾਹੁਲ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਰਾਹੁਲ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Pooja adopted a parrot. The parrot followed Pooja everywhere.,ਪੂਜਾ ਨੇ ਇੱਕ ਤੋਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਪੂਜਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Arnab could not attend the party because Arnab was not feeling well.,ਅਰਨਬ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Sourav bought a new book from the market.,ਸੌਰਵ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Riya visited the park in the evening.,ਰਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the friends visited the zoo. the friends enjoyed watching the animals.,ਦੋਸਤ ਚਿੜੀਆਘਰ ਗਏ। ਦੋਸਤ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Priya could not attend the party because Priya was not feeling well.,ਪ੍ਰਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Ananya bought a new bag from the market.,ਅਨਨਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Meera visited the park in the evening.,ਮੀਰਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+"Meera said, 'It is raining cats and dogs outside.'","ਮੀਰਾ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,ਕਰਨ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਕਰਨ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Rohan became angry when the bus arrived late.,ਰੋਹਨ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+"Meera said, 'It is raining cats and dogs outside.'","ਮੀਰਾ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ਰੋਹਨ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,ਸੌਰਵ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਸੌਰਵ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Priya bought a new phone from the market.,ਪ੍ਰਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Kavya bought a new book from the market.,ਕਾਵਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Ananya bought a new laptop from the market.,ਅਨਨਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Aditya became angry when the bus arrived late.,ਆਦਿਤਿਆ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Karan felt scared after hearing the loud noise.,ਕਰਨ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Aditya heard the good news and smiled with joy.,ਆਦਿਤਿਆ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Arnab went to school. Arnab was very happy.,ਅਰਨਬ ਸਕੂਲ ਗਿਆ। ਅਰਨਬ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ਅਨਨਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਅਨਨਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Kavya heard the good news and smiled with joy.,ਕਾਵਿਆ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ਰੋਹਨ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Amit lost her wallet. Amit became very worried.,ਅਮਿਤ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਅਮਿਤ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Pooja lost her wallet. Pooja became very worried.,ਪੂਜਾ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਪੂਜਾ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Riya lost her wallet. Riya became very worried.,ਰਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਰਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Rahul became angry when the bus arrived late.,ਰਾਹੁਲ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Vikram bought a new wallet from the market.,ਵਿਕਰਮ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Kavya heard the good news and smiled with joy.,ਕਾਵਿਆ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ਕਾਵਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ਬੱਚੇ ਚਿੜੀਆਘਰ ਗਏ। ਬੱਚੇ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ਸਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rohan could not attend the party because Rohan was not feeling well.,ਰੋਹਨ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+"Rahul said, 'It is raining cats and dogs outside.'","ਰਾਹੁਲ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+the players visited the zoo. the players enjoyed watching the animals.,ਖਿਡਾਰੀ ਚਿੜੀਆਘਰ ਗਏ। ਖਿਡਾਰੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Priya bought a new bag from the market.,ਪ੍ਰਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ਵਿਦਿਆਰਥੀ ਚਿੜੀਆਘਰ ਗਏ। ਵਿਦਿਆਰਥੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Pooja visited the park in the evening.,ਪੂਜਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Arnab heard the good news and smiled with joy.,ਅਰਨਬ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Ananya felt scared after hearing the loud noise.,ਅਨਨਿਆ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Karan bought a new phone from the market.,ਕਰਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Priya became angry when the bus arrived late.,ਪ੍ਰਿਆ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,ਕਰਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ਰੋਹਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ਵਿਦਿਆਰਥੀ ਚਿੜੀਆਘਰ ਗਏ। ਵਿਦਿਆਰਥੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Riya visited the park in the evening.,ਰਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Arnab adopted a cat. The cat followed Arnab everywhere.,ਅਰਨਬ ਨੇ ਇੱਕ ਬਿੱਲੀ ਗੋਦ ਲਿਆ। ਉਹ ਅਰਨਬ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ਸੌਰਵ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ਮਜ਼ਦੂਰ ਚਿੜੀਆਘਰ ਗਏ। ਮਜ਼ਦੂਰ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ਰੋਹਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ਰੋਹਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ਸਨੇਹਾ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਸਨੇਹਾ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+"Vikram said, 'It is raining cats and dogs outside.'","ਵਿਕਰਮ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Karan bought a new book from the market.,ਕਰਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,ਪੂਜਾ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Rohan bought a new wallet from the market.,ਰੋਹਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ਬੱਚੇ ਚਿੜੀਆਘਰ ਗਏ। ਬੱਚੇ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Meera could not attend the party because Meera was not feeling well.,ਮੀਰਾ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Aditya could not attend the party because Aditya was not feeling well.,ਆਦਿਤਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Pooja could not attend the party because Pooja was not feeling well.,ਪੂਜਾ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Sourav visited the park in the evening.,ਸੌਰਵ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+the children visited the zoo. the children enjoyed watching the animals.,ਬੱਚੇ ਚਿੜੀਆਘਰ ਗਏ। ਬੱਚੇ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Sneha bought a new bag from the market.,ਸਨੇਹਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ਮਜ਼ਦੂਰ ਚਿੜੀਆਘਰ ਗਏ। ਮਜ਼ਦੂਰ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Arnab adopted a horse. The horse followed Arnab everywhere.,ਅਰਨਬ ਨੇ ਇੱਕ ਘੋੜਾ ਗੋਦ ਲਿਆ। ਉਹ ਅਰਨਬ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha went to school. Sneha was very happy.,ਸਨੇਹਾ ਸਕੂਲ ਗਿਆ। ਸਨੇਹਾ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ਵਿਕਰਮ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha could not attend the party because Sneha was not feeling well.,ਸਨੇਹਾ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ਅਨਨਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Neha lost her wallet. Neha became very worried.,ਨੇਹਾ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਨੇਹਾ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ਵਿਕਰਮ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Amit could not attend the party because Amit was not feeling well.,ਅਮਿਤ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ਰੋਹਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul bought a new book from the market.,ਰਾਹੁਲ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Neha heard the good news and smiled with joy.,ਨੇਹਾ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Amit heard the good news and smiled with joy.,ਅਮਿਤ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Vikram bought a new laptop from the market.,ਵਿਕਰਮ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Kavya bought a new laptop from the market.,ਕਾਵਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja bought a new phone from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ਸਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Aditya became angry when the bus arrived late.,ਆਦਿਤਿਆ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Priya could not attend the party because Priya was not feeling well.,ਪ੍ਰਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Rahul adopted a dog. The dog followed Rahul everywhere.,ਰਾਹੁਲ ਨੇ ਇੱਕ ਕੁੱਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਰਾਹੁਲ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Meera could not attend the party because Meera was not feeling well.,ਮੀਰਾ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Ananya felt scared after hearing the loud noise.,ਅਨਨਿਆ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Vikram bought a new book from the market.,ਵਿਕਰਮ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ਰੋਹਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Ananya became angry when the bus arrived late.,ਅਨਨਿਆ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Karan bought a new phone from the market.,ਕਰਨ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Ananya visited the park in the evening.,ਅਨਨਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav adopted a parrot. The parrot followed Sourav everywhere.,ਸੌਰਵ ਨੇ ਇੱਕ ਤੋਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਸੌਰਵ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Neha bought a new book from the market.,ਨੇਹਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Neha visited the park in the evening.,ਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+"Sneha said, 'It is raining cats and dogs outside.'","ਸਨੇਹਾ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Ananya lost her wallet. Ananya became very worried.,ਅਨਨਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਅਨਨਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Neha bought a new bag from the market.,ਨੇਹਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja adopted a horse. The horse followed Pooja everywhere.,ਪੂਜਾ ਨੇ ਇੱਕ ਘੋੜਾ ਗੋਦ ਲਿਆ। ਉਹ ਪੂਜਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Amit felt scared after hearing the loud noise.,ਅਮਿਤ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Priya heard the good news and smiled with joy.,ਪ੍ਰਿਆ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ਆਦਿਤਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,ਅਮਿਤ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+"Amit said, 'It is raining cats and dogs outside.'","ਅਮਿਤ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Amit visited the park in the evening.,ਅਮਿਤ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rohan felt scared after hearing the loud noise.,ਰੋਹਨ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav felt scared after hearing the loud noise.,ਸੌਰਵ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ਸਨੇਹਾ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਸਨੇਹਾ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,ਪੂਜਾ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Sneha lost her wallet. Sneha became very worried.,ਸਨੇਹਾ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਸਨੇਹਾ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Sourav became angry when the bus arrived late.,ਸੌਰਵ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul lost her wallet. Rahul became very worried.,ਰਾਹੁਲ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਰਾਹੁਲ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+the students visited the zoo. the students enjoyed watching the animals.,ਵਿਦਿਆਰਥੀ ਚਿੜੀਆਘਰ ਗਏ। ਵਿਦਿਆਰਥੀ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Meera went to school. Meera was very happy.,ਮੀਰਾ ਸਕੂਲ ਗਿਆ। ਮੀਰਾ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Rohan went to school. Rohan was very happy.,ਰੋਹਨ ਸਕੂਲ ਗਿਆ। ਰੋਹਨ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Arnab visited the park in the evening.,ਅਰਨਬ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rohan went to school. Rohan was very happy.,ਰੋਹਨ ਸਕੂਲ ਗਿਆ। ਰੋਹਨ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Sneha adopted a dog. The dog followed Sneha everywhere.,ਸਨੇਹਾ ਨੇ ਇੱਕ ਕੁੱਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਸਨੇਹਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Meera adopted a dog. The dog followed Meera everywhere.,ਮੀਰਾ ਨੇ ਇੱਕ ਕੁੱਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਮੀਰਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Ananya could not attend the party because Ananya was not feeling well.,ਅਨਨਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Sourav bought a new phone from the market.,ਸੌਰਵ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Riya bought a new laptop from the market.,ਰਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Vikram heard the good news and smiled with joy.,ਵਿਕਰਮ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+the workers visited the zoo. the workers enjoyed watching the animals.,ਮਜ਼ਦੂਰ ਚਿੜੀਆਘਰ ਗਏ। ਮਜ਼ਦੂਰ ਨੇ ਜਾਨਵਰਾਂ ਨੂੰ ਦੇਖ ਕੇ ਆਨੰਦ ਲਿਆ।,No text provided,0.0,0.0,0.0
+Ananya went to school. Ananya was very happy.,ਅਨਨਿਆ ਸਕੂਲ ਗਿਆ। ਅਨਨਿਆ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+"Neha said, 'It is raining cats and dogs outside.'","ਨੇਹਾ ਨੇ ਕਿਹਾ, 'ਬਾਹਰ ਬਹੁਤ ਤੇਜ਼ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ।'",No text provided,0.0,0.0,0.0
+Sneha bought a new laptop from the market.,ਸਨੇਹਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Riya lost her wallet. Riya became very worried.,ਰਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਰਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Riya adopted a cat. The cat followed Riya everywhere.,ਰਿਆ ਨੇ ਇੱਕ ਬਿੱਲੀ ਗੋਦ ਲਿਆ। ਉਹ ਰਿਆ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav lost her wallet. Sourav became very worried.,ਸੌਰਵ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਸੌਰਵ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Meera felt scared after hearing the loud noise.,ਮੀਰਾ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Ananya felt scared after hearing the loud noise.,ਅਨਨਿਆ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Aditya visited the park in the evening.,ਆਦਿਤਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Karan lost her wallet. Karan became very worried.,ਕਰਨ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਕਰਨ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Priya went to school. Priya was very happy.,ਪ੍ਰਿਆ ਸਕੂਲ ਗਿਆ। ਪ੍ਰਿਆ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Pooja bought a new laptop from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,ਪੂਜਾ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Pooja bought a new bag from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Sneha visited the park in the evening.,ਸਨੇਹਾ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Aditya bought a new wallet from the market.,ਆਦਿਤਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Rahul heard the good news and smiled with joy.,ਰਾਹੁਲ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Meera adopted a cat. The cat followed Meera everywhere.,ਮੀਰਾ ਨੇ ਇੱਕ ਬਿੱਲੀ ਗੋਦ ਲਿਆ। ਉਹ ਮੀਰਾ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav felt scared after hearing the loud noise.,ਸੌਰਵ ਉੱਚੀ ਆਵਾਜ਼ ਸੁਣ ਕੇ ਡਰ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Neha could not attend the party because Neha was not feeling well.,ਨੇਹਾ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Rohan adopted a rabbit. The rabbit followed Rohan everywhere.,ਰੋਹਨ ਨੇ ਇੱਕ ਖਰਗੋਸ਼ ਗੋਦ ਲਿਆ। ਉਹ ਰੋਹਨ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Sourav bought a new laptop from the market.,ਸੌਰਵ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਲੈਪਟਾਪ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Neha went to school. Neha was very happy.,ਨੇਹਾ ਸਕੂਲ ਗਿਆ। ਨੇਹਾ ਬਹੁਤ ਖੁਸ਼ ਸੀ।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ਰਾਹੁਲ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Amit lost her wallet. Amit became very worried.,ਅਮਿਤ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਅਮਿਤ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ਵਿਕਰਮ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Vikram visited the park in the evening.,ਵਿਕਰਮ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Ananya bought a new book from the market.,ਅਨਨਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਕਿਤਾਬ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Riya bought a new bag from the market.,ਰਿਆ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਥੈਲਾ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Ananya could not attend the party because Ananya was not feeling well.,ਅਨਨਿਆ ਦੀ ਤਬੀਅਤ ਠੀਕ ਨਾ ਹੋਣ ਕਾਰਨ ਉਹ ਪਾਰਟੀ ਵਿੱਚ ਨਹੀਂ ਆ ਸਕਿਆ।,No text provided,0.0,0.0,0.0
+Aditya lost her wallet. Aditya became very worried.,ਆਦਿਤਿਆ ਦਾ ਬਟੂਆ ਗੁੰਮ ਹੋ ਗਿਆ। ਆਦਿਤਿਆ ਬਹੁਤ ਚਿੰਤਤ ਹੋ ਗਈ।,No text provided,0.0,0.0,0.0
+Rohan visited the park in the evening.,ਰੋਹਨ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Pooja heard the good news and smiled with joy.,ਪੂਜਾ ਨੇ ਚੰਗੀ ਖ਼ਬਰ ਸੁਣ ਕੇ ਖੁਸ਼ੀ ਨਾਲ ਮੁਸਕੁਰਾਇਆ।,No text provided,0.0,0.0,0.0
+Rahul bought a new phone from the market.,ਰਾਹੁਲ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਫੋਨ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Karan adopted a dog. The dog followed Karan everywhere.,ਕਰਨ ਨੇ ਇੱਕ ਕੁੱਤਾ ਗੋਦ ਲਿਆ। ਉਹ ਕਰਨ ਦੇ ਪਿੱਛੇ ਹਰ ਜਗ੍ਹਾ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Amit became angry when the bus arrived late.,ਅਮਿਤ ਬੱਸ ਦੇ ਦੇਰ ਨਾਲ ਆਉਣ ਕਾਰਨ ਗੁੱਸੇ ਹੋ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Pooja bought a new wallet from the market.,ਪੂਜਾ ਨੇ ਬਾਜ਼ਾਰ ਤੋਂ ਨਵਾਂ ਬਟੂਆ ਖਰੀਦਿਆ।,No text provided,0.0,0.0,0.0
+Kavya visited the park in the evening.,ਕਾਵਿਆ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
+Rahul visited the park in the evening.,ਰਾਹੁਲ ਸ਼ਾਮ ਨੂੰ ਪਾਰਕ ਗਿਆ।,No text provided,0.0,0.0,0.0
